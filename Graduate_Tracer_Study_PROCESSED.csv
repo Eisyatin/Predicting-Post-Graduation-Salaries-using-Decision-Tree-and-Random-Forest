@@ -1,0 +1,947 @@
+Gender :,Age:,Graduation Year :,Program Code :,Current Occupation :,Job category :,Department :,Company Name,Type of Company :,Company's nature of business :,Years of work experience (after graduation):,Current Salary Midpoint
+Male,26,2014,CS221,Banker,Executive,Credit Management,Agrobank,GLC,Bank for agriculture business,3,3500.5
+Male,26,2017,CS253,PI1M Kg Tanah Hitam Manager,Manager,Pelaksana,MSD Digital Intelligent,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,25,2016,CS110 ,Web developer ,Executive,Ecommerce,PETSMORE SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Male,26,2016,CS241,Permanent,Executive,Technical,Statworks (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,2,2500.5
+Male,24,2017,CS245,Network Planner,Non Executive,OSP Planning,Digi Telecommunication,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,3500.5
+Female,24,2017,CS241,Data Analytic,Executive,Human Capital,Etiqa Insurance Berhad,Private Limited Company(Syarikat Sendirian Berhad,Insurance,1,3500.5
+Female,25,2016,CS241,Finance executive,Executive,Finance department,FTMS College,Corporate(Koperasi),Education,1,2500.5
+Female,27,2017,CS221,Lecturer,Education,FSKM,UiTm Shah Alam,PTFT Lecturer,Education,1,2500.5
+Male,30,2012,CS226,Executive,Executive,Enterprise project management office,PETRONAS,Corporate(Koperasi),Oil and gas,6,7500.5
+Female,25,2015,CS222 ,Trade Analyst,Executive,North America Trade,Citigroup Transaction Services (M) Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Services,2,3500.5
+Female,24,2017,CS249 ,Cashiet, Staff,Finance,Billion Mart (Cawangan Bachok),Shopping Mall,Consumer Trading,1,1500
+Male,29,2012,CS110,Programmer,Executive,Information & communications technology services,Asia e University,Private Limited Company(Syarikat Sendirian Berhad,Education,5,1500
+Female,24,2016,CS230,System Analyst,Executive,Information Technology,USIM Tijarah Holding,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Male,27,2012,CS251,Software Programmer,Executive,EMV,DZCard(M) Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,4,3500.5
+Female,27,2013,CS226,SAP Analyst,Executive,IT,Panasonic Air-Conditioning Malaysia,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,3,4500.5
+Male,28,2012,CS251,Software Developer,Executive,Software Department,BIT Group Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,4,3500.5
+Male,32,2010,CS227,Senior Executive,Executive,Sustainability & Quality Mgt.,Sime Darby Property,GLC,Property Developer,5,4500.5
+Female,28,2013,CS226,Qa supervisor,Executive,Quality assurance,Yokowo,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,4,2500.5
+Female,26,2015,CS244 ,Software Engineer,Non Executive,IT,Lighthouse Technology Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Male,27,2002,CS226 ,Automation Test Lead,Executive,IT department,Kumpulan Wang Simpanan Pekerja,Statutory Body(Badan Berkanun),Financial Institution,5,7500.5
+Male,28,2013,CS230,Automation Engineer,Executive,IT,Texas Instruments Malaysia,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,5,7500.5
+Female,27,2013,CS231,APPLICATION CONSULTANT,Executive,IMPLEMENTATION,SV SOLUTION CENTRIC SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,31,2010,CS246,QA analyst,Executive,digital services unit,star media group berhad,berhad,Media and Broadcasting,7,4500.5
+Female,27,2013,CS225,TECHNICAL EXECUTIVE,Executive,SUPPORT INFRA (SERVER),FELDA PRODATA SYSTEMS SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,25,2014,CS110,Pembantu tadbir,Pembantu tadbir,Khidmat pelanggan,Lhdn seremban,Statutory Body(Badan Berkanun),Customer Services,3,1500
+Female,29,2010,CS110,Gov servant,Non Executive,HR,KKM,GOV,Hospitality,7,2500.5
+Female,25,2017,CS243,web and mobile developer,junior developer,it development,dhriti-solution sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,25,2013,CS113,Lab assistant,Staff,Sekolah,Smk seri bintang,Kerajaan ,Education,4,1500
+Male,27,2013,CS110 ,Pembantu perangkaan,Non Executive,Economic,Department of statistic Malaysia,Government,Services,3,2500.5
+Female,30,2011,CS220,Project Management Assistant,Executive,Shared Services,IBM CIC (Malaysia) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,4500.5
+Female,25,2017,CS248 ,Admin ,Asisstant,Admin,Simwork Solution Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Trading,1,2500.5
+Male,27,2014,CS230,"Specialist, Application Development",Executive,IT,Sime Darby Berhad,Statutory Body(Badan Berkanun),Services,3,2500.5
+Female,31,2012,CS248,Banker,Executive,Asset services,HSBC,Banking,Banking,4,4500.5
+Female,29,2016,CS225,engineer,Executive,NOC,Sapura,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,3500.5
+Male,29,2012,CS221,Software Test Engineer,Executive,Information Technology,Warner Chappell Music Malaysia,Corporate(Koperasi),Music,6,7500.5
+Male,31,2011,CS230,programmer,Manager,ICT,GOvt Own COmp,GOC,Rakyat,5,2500.5
+Female,27,2014,CS773,Data Collection & Processing Officer,Executive,Quality and Technical Document Management,PDC Premier,Holding,Development,2,2500.5
+Female,25,2013,CS110,administrative assistant,Non Executive,finance,kolej universiti islam melaka,Statutory Body(Badan Berkanun),Education,4,1500
+Female,25,2016,CS230,Software QA Engineer,Software QA Engineer,IT,Intel Microelectronics Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,3500.5
+Female,29,2012,CS247,Software Engineer,Executive,Software Development,Brilliance Information,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,3500.5
+Male,26,2014,CS110,php developer,Non Executive,it,konzept branding sdn bhd,Partnership(Perkongsian),Information Technology,4,3500.5
+Female,28,2013,CS113,EXECUTIVE,Executive,PROCUREMENT,FELCRA PLANTATION SERVICES SDN BHD,GLC,PLANTATION ,4,2500.5
+Male,28,2012,CS230,Developer,Executive,Digital IT Delivery,RHB Bank,Berhad,Banking,4,4500.5
+Male,26,2014,CS230,programmer,Executive,Software Development,Multimedia Consulting SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Male,31,2007,CS110,System Developer,Executive,Special Project,Celcom Axiata Bhd,Corporate(Koperasi),Telecommunication,7,4500.5
+Male,34,2004,CS110,Senior Lecturer,Executive,Social Science,UPM Bintulu,Statutory Body(Badan Berkanun),Education,6,7500.5
+Male,26,2014,CS110,Network Engineer,Executive,IT-Technical,Bright Nexus,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Male,28,2013,CS225,IT Executive,Executive,Operation,Cosmopoint Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Education,4,3500.5
+Male,27,2014,CS222,Insurance Industry,Executive,Motor Claims Litigation,Etiqa Insurance Berhad,Private Limited Company(Syarikat Sendirian Berhad,Insurance,3,3500.5
+Female,33,2008,CS244,Planning & Project Control Executive,Executive,Planning & Project Control,MMC Oil & Gas Engineering Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Oil & Gas,9,3500.5
+Female,25,2014,CS110,SAFETY SUPERVISOR,Executive,SAFETY AND HEALTH ,DOMINANT TECHNOLOGIES & SUPPLY (M) SDN.BHD.,Private Limited Company(Syarikat Sendirian Berhad,Services,3,2500.5
+Female,27,2012,CS110,IT Developer,Executive,IT,BloomThis Flora Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,e-commerce,5,3500.5
+Female,29,2011,CS214 ,Lecturer ,Professional ,Fskm,Uitm,Statutory Body(Badan Berkanun),Education,1,4500.5
+Male,29,2011,CS222,AML/CFT Compliance Officer and Trainer,Senior Manager,Compliance,Alaf Jutawan Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Money Service Business,6,7500.5
+Male,29,2012,CS225,Radiation Protection Officer,Executive,Engineering,Billion Prima Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,4,3500.5
+Male,30,2012,CS220,Senior Software Developer,Executive,Information Technology,Mobility One Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,7500.5
+Male,30,2013,CS228,Takaful Consultant,Non Executive,Agency Department,Prudential BSN Takaful Berhad,Private Limited Company(Syarikat Sendirian Berhad,Services,4,3500.5
+Female,22,2017,CS143,OFFICER PRODUCTION,OFFICER ,PRODUCTION,TOP GLOVE SDN BHD ,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,24,2017,CS249,putrajaya,pekerja sambilan harian 41,pengurusan sumber manusia,kementerian pendidikan tinggi,Statutory Body(Badan Berkanun),Information Technology,1,1500
+Male,31,2012,CS231,System Analyst,Executive,IT,KWSP,Statutory Body(Badan Berkanun),Social Security,6,7500.5
+Male,25,2013,CS110,Mobile Application Developer,Executive,Developer,TRM Nett Systems (M) SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,4500.5
+Female,26,2015,CS241,SENIOR OFFICER HUMAN RESOURCE,Non Executive,HUMAN RESOURCE,MALINDO AIRWAYS SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,TRANSPORTATION,3,2500.5
+Male,24,2017,CS244,Sales assistant ,Non Executive,Sales,MPC sales & services,Sole Trader(Perseorangan),Sales,1,1500
+Female,28,2014,CS251,Web and Graphic Designer,Executive,IT,MiCare Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,3,3500.5
+Male,27,2015,CS247,Ict engineer,Executive,IT,RH RESOURCES SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Female,25,2016,CS246,Technical Support Officer ,Executive,Technical Support ,Puncak Tegap Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Female,23,2017,CS249,customer service,Executive,customer financial division,Ocbc bank,Corporate(Koperasi),Banking,1,2500.5
+Female,25,2017,CS245,Sales coordinator,Executive,Tender,Kinrara aplikasi sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,25,2017,CS244 ,TEACHER,REPLACEMENT,EDUCATION,SMK MARAN,GOVERNMENT,Education,1,1500
+Male,26,2014,CS244 ,Test Engineer,Executive,Sales Department,Hewllet-Packard (HP),Corporate(Koperasi),Information Technology,4,2500.5
+Female,24,2017,CS247,IT Officer,Executive,IT Department,Equmed sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Medical Equipment Supplier,1,1500
+Male,29,2014,CS778,Linux Engineer,Executive,Operations,DXC Technology,Enterprise,Information Technology,5,7500.5
+Female,27,2013,CS214,Management trainee,Executive,Corporate Business,MBSB,Corporate(Koperasi),Accountant and Audit,4,3500.5
+Female,27,2015,CS249,Clerk,Clerk,Finance,D&d control (m) sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,2,1500
+Female,24,2017,CS249,FINANCIAL,ASSISTANT ,FINANCIAL,HOSPITAL KUALA KRAI,KERAJAAN,Hospitality,1,1500
+Male,25,2016,CS110,Analyst Programmer,Non Executive,Research & Development,BOSS SOLUTIONS SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Female,24,2016, CS244,Junior Java Developer,Junior,Software Service,Bestinet Sdb Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,25,2014,CS247,Full Time Tutor,Non Executive,Tuition Centre,Maths Catch Puchong,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Female,25,2016,CS226,Analyst Programmer,Non Executive,Information Technology,Meridian(M) Diversified Sdn.Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,23,2017,CS246 ,QA Tester / Business Analyst,Executive,Product Team,Loanstreet,Partnership(Perkongsian),Information Technology,1,2500.5
+Male,32,2010,CS233,Lead IT Engineer,Executive,IT Division,Telekom Malaysia,Telco,Services,6,4500.5
+Male,24,2016,CS113,"bisnes restaurant ,part-time gold seller",Non Executive,own,"haza sr enterprise ,w sarahudin enterprise",Partnership(Perkongsian),food service,1,3500.5
+Female,23,2017,CS230,Software developer,Junior programmer,Software,Mantap sinergi sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,23,2017,CS248,Administrative,Assistant,Administrative,Apic Solutions Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,24,2016,CS244,ECR Support,Executive,ECR Department,INTER-REGISTER COMMUNICATION,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,25,2017,CS244,caregiver,Non Executive,teacher ,sparkle seeds childcare center,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Female,28,2012,CS228 ,Executive-Training&Development,Executive,Human Capital Division,UMW Toyota Motor Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Automotive ,5,3500.5
+Male,25,2017,CS248,Accountant,Executive,Finance & Account,TNB Energy Services,private company,Services,1,3500.5
+Female,25,2017,CS246,Penolong Pegawai Teknologi Maklumat,Non Executive,Bahagian Pembangunan Aplikasi,USIM Tijarah Sdn Bhd,Statutory Body(Badan Berkanun),Education,1,1500
+Male,25,2015,CS241 ,SPAD,Executive,Mobility,SPAD,Statutory Body(Badan Berkanun),Land Public Transport,2,3500.5
+Male,28,2009,CS110,Software Engineer,Executive,Engineering,CSE Global,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,4500.5
+Female,24,2017,CS248 ,PAYROLL OFFICER,Non Executive,ACCOUNT,SEIKOTECH ARCHITECTURAL COMPONENTS SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Hospitality,1,1500
+Female,24,2017,CS244,Admin Associate,Associate,Admin,Mydin Mohamed Holdings Berhad (Iman Ikhlas (M) Sdn Bhd),Private Limited Company(Syarikat Sendirian Berhad,Retail,1,1500
+Female,31,2008,CS244,Senior Consultant - Applications,Executive,Business Solution,Sunway Shared Services Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,7,7500.5
+Male,25,2017,CS244,PERHEBAT,Officer leader,Academic,PERHEBAT,Statutory Body(Badan Berkanun),Education,1,1500
+Female,29,2011,CS222,Lecturer,Manager,Maths,INTEC Education College,Private Limited Company(Syarikat Sendirian Berhad,Education,4,4500.5
+Female,24,2017,CS241 ,Business Development Executive,Manager,SALES,GLOBALKNOX SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Education,1,2500.5
+Female,24,2017,CS249,Pos Logistics Berhad,Executive,Corporate Development,Pos Logistics Berhad,Private Limited Company(Syarikat Sendirian Berhad,Logistics ,1,1500
+Male,24,2016,CS241 ,Data analyst,Executive,Data analyst,Psl group,Private Limited Company(Syarikat Sendirian Berhad,Market research,1,2500.5
+Female,25,2015,CS229,OFFICER,Executive,AUDIT,ROYAL MALAYSIAN CUSTOMS DEPARTMENT,GOVERMENT,Accountant and Audit,2,2500.5
+Male,25,2017,CS110,Webmaster,Executive,Communications,Sticky Rice Travel Sdn Bhd,Partnership(Perkongsian),Services,1,1500
+Female,24,2017,CS240,PNB Management Trainee,Executive,"Human Capital, Planning and Development",Permodalan Nasional Berhad (PNB),GLC,Investment,1,3500.5
+Female,25,2016,CS241,Research Assistant (PSH),Non Executive,Family health,Institut Kesihatan Umum,Kerajaan,Research,1,1500
+Female,23,2017,CS230,Website Developer,Executive,Graphic Design & Multimedia,Astana City Group Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,1500
+Female,24,2016,CS247,Commercial Executive,Executive,Business Strategy and Development,CTRM Aero Composite,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,24,2017,CS223,Event Management,Non Executive,Sales & Marketing,Simana Network,Corporate(Koperasi),Services,1,1500
+Female,26,2015,CS247,Internal Audit Assistant ,Non Executive,Audit,Palmhead Management and Consultancy Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Plantation,2,1500
+Male,26,2016,CS 243 ,Post Grad Student,Post Grad Student,CAIRO,UTM,Student,Education,3,1500
+Female,24,2017,CS248,HR,Non Executive,HR,Symphony Security Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,24,2016,CS251,programmer,Executive,Software,Opensoft Technologies,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,24,2017,CS251,SL1M Trainee,Slim trainee,Network roll out,Celcom network,Corporate(Koperasi),Telecommunication,1,1500
+Female,23,2015,CS113,CLERK,Non Executive,ADMINSTATION,UNIJOH SDN. BHD.,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,1500
+Male,24,2013,CS110,Programmer ,Non Executive,It,Kjsb,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,25,2017,CS230,Software developer,Executive,Psg,Heitech padu berhad,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,23,2017,CS241,Planner,Executive,Planner ,TWP SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,23,2017,CS241,Planner,Executive,Planner ,TWP SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Male,23,2016,CS110,Mobile Application Developer,Executive,IT Department,POPLOOK Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,E-Commerce,3,7500.5
+Female,26,2016,CS773,Data Analyser ,Non Executive,"Safety, Health & Security ",TNB Janamanjung,Publicity Traded Government -  Linked Company,Electrical Power,1,1500
+Male,24,2017,CS230,Software Engineer,Developer,Enterprise ,Terato Tech,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Female,23,2017,CS251 ,Software Engineer,Non Executive,IT,DinarPal ,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,23,2017,CS242,SL1M,SL1M,INSURANCE MANAGEMENT,TM,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,1500
+Male,26,2016,CS230,programmer,Executive,it,IGS PROTECH SD BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Male,25,2015,CS247,Product Engineer,Executive,Product Developments,Digi Telecommunications Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,2,3500.5
+Male,26,2017,CS246,Application Engineer,Executive,TRANSACTION BANKING ,Hitachi eBworx,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,25,2016,CS247,assitant operation manager,Manager,operation,ammaira sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,clothing (brand),1,1500
+Female,24,2017,CS248,Clerk,Non Executive,Hr,Expert security ,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Male,26,2014,CS220,Business Analyst,Executive,Operation,Silverlake Sprint Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Male,24,2014,CS110,on call field support,field engineer,technical support,sonicboom sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,1500
+Female,24,2016,CS242,"Executive, Risk Management",Executive,Risk Management,KAF-Seagroatt & Campbell Securities Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Stockbroking,1,2500.5
+Female,24,2017,CS240,IT Business Analyst,Non Executive,Information Technology - Demand Management,Celcom Axiata Sdn Bhd,GLC,Telecommunication,1,2500.5
+Male,25,2015,CS251,IT Executive,Executive,Project,Nasc Technology ltd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,2,4500.5
+Female,24,2016,CS244,IT Analyst,Executive,Technical,UiTM Holdings,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Male,24,2014,CS110,Game Programmer,Executive,IT Department,Miraj Audio,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,4500.5
+Male,24,2017,CS247,linux/unix,associate,development and operation,digi telecommunications sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,2500.5
+Female,24,2017,CS248,SL1M TRAINEE,TRAINEE STAFF,SOFTWARE TECHNOLOGY (DATA SCIENCE),TM R&D BERHAD,Sole Trader(Perseorangan),Telecommunication,1,1500
+Male,27,2014,CS 222,Marketing Manager,Manager,Marketing,VV Variasi International Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,3,7500.5
+Male,25,2015,CS110,cashier,Non Executive,cum cashier,Guardian pharmacy health and beauty,Corporate(Koperasi),health and beauty,1,1500
+Female,25,2017,CS249,ACCOUNT EXECUTIVE,Executive,ACCOUNT,SIONGLI (M),Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Male,24,2017,CS230,Junior Programmer,Non Executive,IT,Kodewave Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,24,2016,CS228,Admin & Accounts Executive ,Executive,Admin cum HR ,Sustainable Venture Sdn Bhd ,Private Limited Company(Syarikat Sendirian Berhad,Construction ,1,1500
+Male,23,2017,CS230,Freelance Web Developer,Freelance,Freelance,Self emplyoed,Freelance,Information Technology,1,1500
+Male,24,2017,CS230,Mobile App Developer,Non Executive,Mobile App,Ingeniworks Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,24,2015,CS110,developer web system,programmer,IT,Data View System Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,1500
+Female,23,2017,CS241,Data Analyst,Non Executive,Quality Audit,AS White Global,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,23,2017,CS251,FINANCIAL CONSULTANT,AGENT,TAKAFUL,QFALAH GROUP,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,1500
+Female,23,2017,CS251,FINANCIAL CONSULTANT,AGENT,TAKAFUL,QFALAH GROUP,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,1500
+Female,23,2017,CS242,Product Development,Executive,Underwriting,RHB Insurance,Corporate(Koperasi),Insurance,1,2500.5
+Female,25,2016,CS248,Executive credit,Executive,Employee Benefit & Medical Group,ETIQA MAYBANK,Banking,Operation,1,3500.5
+Female,23,2015,CS110,Sendiri,Self,No,No,No,No,2,1500
+Male,24,2017,CS110,Trainer,Trainer,Trainer,StartUp Malaysia,Corporate(Koperasi),Information Technology,1,2500.5
+Female,25,2016,CS230,Programmer,Non Executive,ISD,Rohm Wako Electronics Malaysia,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,26,2014,CS244,Web developer,Executive,Portal ,Opensoft Technology Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Male,37,2004,CS110,Head Of Programmer,Executive,Infostruktur,UiTM,Statutory Body(Badan Berkanun),Education,12,7500.5
+Female,24,2017,CS241,ASSISTANT ADMINISTRATION,Non Executive,ADMINISTRATION & MANAGEMENT,TUNJANG BAKAWALI SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Female,23,2017,CS247,anggota rela pentadbiran,Non Executive,administration,jabatan sukarelawan malaysia,goverment,Customer Services,1,1500
+Female,26,2016,CS248,Administration Clerk,Non Executive,Hr,Dina jaya enterprise,Partnership(Perkongsian),Manufacturing,1,1500
+Female,25,2016,CS242,Account assistant ,Non Executive,Finance,Mammoth Empire Holding Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Property,1,2500.5
+Female,23,2017,CS247,Software Engineer,Junior Software Engineer,IT,SASB,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,1,2500.5
+Male,25,2016,CS240 ,Engineer,Executive,CIM (Computer Integrated Manufacturing),Silterra Malaysia Sdn Bhd,GLC,Manufacturing,1,3500.5
+Female,26,2015,CS228,Continous improvement ,Executive,Production,Bahru stainless,Partnership(Perkongsian),Manufacturing,2,2500.5
+Male,25,2013,CS230,Software Engineer,Executive,Software IT,Terato Tech Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Female,24,2016,CS231,Application Developer,Executive,Bussiness Process Outsourcing,Telekom Malaysia Berhad,Corporate(Koperasi),Information Technology,1,2500.5
+Female,23,2017,CS241,Admin Officer,Non Executive,Admin,Netiquette Softwar,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,24,2017,CS251 ,Admin executive,Executive,Global banking - Cash Management,Maybank,Corporate(Koperasi),Banking,1,2500.5
+Female,26,2015,CS110,Payroll associate,Executive,Payroll,Tricor business services,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,23,2017,CS244,Supervisor Capability Management,Non Executive,Capability Management,PETRONAS Carigali Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Oil & Gas,1,2500.5
+Female,23,2015,CS112,employment,clerk,FSKM,Cahaya Unggul Enterprise,Partnership(Perkongsian),Manufacturing,1,1500
+Male,27,2014,CS244,System Analyst,Executive,IT,Schlumberger Oilfield Support Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Oil & Gas,3,7500.5
+Male,25,2016,CS247,penguasa bomba kb 41,Executive,operation,jabatan bomba dan penyelamat malaysia,govement,resque,1,3500.5
+Male,24,2017,CS230,Operation Services Associates,Worker,Operations Team,ServiceSource Int (M) Sdn. Bhd,Multinational Business Company,"Business, services, support",1,2500.5
+Female,31,2010,CS222,Senior Associate,Executive,Portfolio Assessment,PNB,Berhad,Investment Holdings,7,7500.5
+Male,24,2016,CS246,Junior Java Developer,Non Executive,System Integration,Technodex Berhad,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,25,2016,CS230,programmer,junior,IT,Ugisp Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Gis,2,1500
+Female,25,2017,CS242,FINANCE EXECUTIV,Executive,ACCOUNT & FINANCE,MIE INDUSTRIAL SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,ENGINEERING,1,2500.5
+Male,25,2016,CS246,Network Engineer,Non Executive,Telco Business Solution,Mesiniaga Berhad,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Female,26,2012,CS110,mobile application developer,Executive,IT,TM Info media,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,3,2500.5
+Male,33,2009,CS247,Life planner takaful & finance advisor,Executive,Sales,AIA public takaful & Kenanga Bank,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,9,7500.5
+Male,31,2010,CS225,Network Engineer,Non Executive,IT Dept,Emerio (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,7,3500.5
+Female,24,2016,CS702,RA,Unit,Statistics,The Malaysian Cohort,Government,Medical,1,2500.5
+Male,25,2016,CS230,Programmer,Non Executive,Management Information System,Evergreen (19179) Trading,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,2,1500
+Female,25,2016,CS230,QA Engineer,Executive,Technical Department,Mudah.my,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,28,2013,CS222,Fund Accountant ,Executive,Fund Accounting ,RBC Treasury & Services Malaysia,Private Limited Company(Syarikat Sendirian Berhad,Services,4,4500.5
+Male,23,2017,CS244,Enterprise System support ,Executive,IT,Mazda malaysia,Sole Trader(Perseorangan),Automotive ,1,2500.5
+Female,34,2011,CS772,Lecturer,Education,General studies department,Majlis amanah rakyat,Statutory Body(Badan Berkanun),Education,6,7500.5
+Female,23,2017,CS244,Penolong Pegawai Teknologi Maklumat,Non Executive,Information Technology,Universiti Malaysia Kelantan,Statutory Body(Badan Berkanun),Education,1,2500.5
+Female,25,2017,CS244,"Outbound, Liner Documentation ",Executive,Documentation,NOL Global Services Centre Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,TRANSPOTATION AND SHIPPING LINE,1,2500.5
+Female,23,2015,CS110,Admin management,Non Executive,Management,NJ MANAGEMENT & SERVICES,Private Limited Company(Syarikat Sendirian Berhad,Accountant and Audit,1,1500
+Female,31,2011,CS222,Banker,Executive,Group Risk,Bank Pembangunan Malaysia Bhd,Government Owned Corporation,Financial Institution,4,3500.5
+Male,24,2017,CS251 ,Teacher,Executive,It,Iissa,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Male,24,2017,CS240,Programmer,Junior Software Engineer,Mobile,Opensoft Technologies Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,34,2006,CS 228,Asst Manager ,Manager,Compliance,Bank Pembangunan Malaysia Berhad,Government Owned ,Telecommunication,10,7500.5
+Female,26,2016,CS247,SLIM trainee,Trainee,Technical Academy,Telekom Malaysia Berhad,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,1500
+Female,25,2017,CS247,clerk cum admin,Non Executive,sales and markerting,Alat Dapur Maju Sdn.Bhd,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,1500
+Male,25,2017,CS251 ,Engineer,Executive,Application Development,Payments Network Malaysia Sdn Bhd (PayNet),Corporate(Koperasi),Finance,1,2500.5
+Female,24,2014,CS110,Pembantu Jualan,Non Executive,Sales,Privilege Style Trading Computer Shop,Sole Trader(Perseorangan),Information Technology,2,1500
+Male,23,2017,CS253,Web Design Analyst,Non Executive,Content Management,Dell,Corporate(Koperasi),Information Technology,1,1500
+Male,28,2014,CS251,system engineer ,Non Executive,technical,exabytes cloud sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,2,3500.5
+Male,25,2016,CS240,IT OFFICER,Executive,IT,FIKR CONSULTANCY SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,24,2017,CS242,Trainee Etiqa Maybank,Trainee,Underwriting ,Etiqa Maybank,Corporate(Koperasi),Insurance,1,1500
+Male,27,2016,CS110,Senior software developer,Executive,IT,NAZROL TECH SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,6,7500.5
+Male,27,2016,CS110,Senior software developer,Executive,IT,NAZROL TECH SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,6,7500.5
+Female,21,2016,CS110,STUDENT,STUDENT,,,,,1,
+Female,25,2016,CS240,WEB DESIGNER,Non Executive,WEB DEVELOPMENT,AMTIS SOLUTION SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Male,25,2015,CS230,System Development,Executive,Group Digital Centre - Geomatics,Telekom Malaysia Berhad,Corporate(Koperasi),Telecommunication,2,3500.5
+Male,29,2012,CS229,"Executive,HR",Executive,Human Resource,GCH RETAIL (M) S/B,Private Limited Company(Syarikat Sendirian Berhad,Business and retailing,6,3500.5
+Female,26,2012,CS110,UI/UX Designer,Specialist,Service & Innovation,Green Packet Berhad,Corporate(Koperasi),Information Technology,3,3500.5
+Male,26,2017,CS251,SYSTEM SUPPORT,Non Executive,ICT,KULIM ADVANCED TECHNOLOGIES SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,26,2015,CS230,It Consultant,Executive,IT Department,NCS,Corporate(Koperasi),Information Technology,3,7500.5
+Male,25,2016,CS230,Programmer,Non Executive,Geomatics,Telekom Malaysia Berhad,Publicly traded government-linked company,Telecommunication,1,3500.5
+Male,29,2009,CS110,BUSINESS,Owner,,BENZIN PRINTING SOLUTIONS,Sole Trader(Perseorangan),Services,4,1500
+Male,28,2014,CS225,desktop engineer,technical,edms,ncs pte ltd,Private Limited Company(Syarikat Sendirian Berhad,Services,3,4500.5
+Female,29,2012,CS230,Collection,Non Executive,Collection,IRB,Statutory Body(Badan Berkanun),Accountant and Audit,6,1500
+Female,29,2011,CS244,Application Support Engineer,Non Executive,Information Technology,Strateq Health Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,6,2500.5
+Female,25,2015,CS243,System Engineer,Executive,IT,EASS Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Female,26,2012,CS110,Network Engineer,Junior ,IT,CL Solution Sdn.Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,23,2017,CS253,SL1M TRAINEE,Non Executive,IT SUPPORT,MALAYSIA AIRPORTS HOLDINGS BERHAD,Corporate(Koperasi),Services,1,1500
+Female,26,2015,CS229,admin exec,Executive,administrative,transwater API sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Male,31,2013,CS225,Technical support,Executive,IT,IIA technologies,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,4,3500.5
+Female,24,2017,CS211,ADMIN CUM ACCOUNT CLERK,Non Executive,ACCOUNT,KARYA CITARASA SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,CONSTRUCTION,2,1500
+Female,26,2015,CS229,Eksekutif Operasi,Executive,Community service,Pertubuhan Ikram Malaysia,Non-goverment Organisation,Operation,1,1500
+Male,30,2011,CS230,Business intelligence Analyst,Manager,Digital Data Department,AirAsia Berhad,Corporate(Koperasi),Customer Services,6,7500.5
+Male,26,2015,CS110,Usahawan Tani Moden,Entrepeneur,Food and Beverages,Chems,Sole Trader(Perseorangan),Food and beverage,4,4500.5
+Female,24,2017,CS245,Trainee backup engineer,Trainee,Backup,T-Systems Malaysia,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,26,2014,CS229,PRODUCTION PLANNER,Executive,PLANNER,SAN MIGUEL YAMAMURA PLASTIC FILMS,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,3,2500.5
+Male,23,2016,CS253,Junior Java Programmer,Non Executive,Software Services,Bestinet Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,26,2017,CS244,SATU,Non Executive,Finance,Syarikat Air Terengganu,Private Limited Company(Syarikat Sendirian Berhad,Services,17,1500
+Female,23,2017,CS773,,,,,,,1,
+Male,26,2011,CS110,NOC Enginner,Executive,Network Operation Center,MyKRIS Asia Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,3,3500.5
+Male,32,2007,CS110,ASSISTANT DIRECTOR/ GOVT. AGENCY,Executive,BUSINESS,MyIPO,Statutory Body(Badan Berkanun),INTELLECTUAL PROPERTY,6,7500.5
+Male,26,2009,CS110,SUPERVISOR ,Non Executive,OFFICE,PSS AM ENT ,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,4,1500
+Female,26,2013,CS110,Customs officer,Non Executive,Frod GST,Jabatan Kastam Diraja Malaysia Selangor,Goverment,Accountant and Audit,2,2500.5
+Male,25,2016,CS110,Skim latihan 1malaysia trainee,trainee,OSH,TM,GLC,Telecommunication,1,1500
+Male,24,2017,CS241,Hotel coordinator ,Non Executive,Housekeeping ,The everly Putrajaya ,Statutory Body(Badan Berkanun),Customer Services,1,1500
+Female,26,2016,CS251,Project Engineer,Executive,IT,Chronos Process Integration Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Software,2,2500.5
+Female,23,2017,CS249,Account Assistant,Non Executive,Finance,Nam Lee Pressed Metal Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,26,2015,CS113,Admin Accounts Executive,Executive,NO DEPARTMENT,BioREV SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,1500
+Female,26,2014,CS230,Software tester,Executive,Quality Assurance ,Hitachi eBworx Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Female,27,2012,CS221,Assistant Manager,Executive,Administration,Cryotech Enterprise,Sole Trader(Perseorangan),Textile,4,1500
+Male,26,2017,CS243,Analyst Programmer,Manager,Information Technology,myMatrix IT Solutions Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,7500.5
+Male,22,2017,CS110,Security Guard,Non Executive,Security,Shapadu,Private Limited Company(Syarikat Sendirian Berhad,Security,1,1500
+Female,21,2017,CS111,Admin cum clerk,Non Executive,Insurance,Rosliz Agency,Sole Trader(Perseorangan),Services,1,1500
+Female,25,2016,CS247,Admi,Non Executive,Account,Mesra Ukur Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,28,2012,CS221,Market Research,Executive,Business Development,PHN INDUSTRY,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,5,7500.5
+Male,25,2016,CS229,Customer Service Agent,Executive,Customer Care Centre,RHB BERHAD,Corporate(Koperasi),Customer Services,1,2500.5
+Male,25,2015,CS230,Application Engineer [Java EE],Executive,Credit Management,Hitachi eBworx,Private Limited Company(Syarikat Sendirian Berhad,Banking IT Solution,2,3500.5
+Female,25,2017,CS247,Operations and marketing executive,Executive,Admin,Moovby,Private Limited Company(Syarikat Sendirian Berhad,Transportations,1,1500
+Male,25,2017,CS254,Jr network engineer ,Non Executive,technical ,Afiintra technologies ,Private Limited Company(Syarikat Sendirian Berhad,distributor,1,2500.5
+Male,26,2015,CS251,programmer,developer,no department,dynafront systems,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Male,26,2014,CS251,System Analyst,Executive,IT,Sony EMCS (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,3,2500.5
+Female,33,2006,CS220,programmer,Non Executive,Operation,Not applicable,Private Limited Company(Syarikat Sendirian Berhad,Services,11,2500.5
+Male,26,2017,CS771,RESEARCH ASSISTANT,Executive,R&D,TRUE ZEAL SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,26,2016,CS230,Software Engineer,Executive,IT,Oracle Synergy Sdn Bhd,Partnership(Perkongsian),Information Technology,2,3500.5
+Female,24,2017,CS248,SL1M TRAINEE,TRAINEE,R&D,TM BERHAD,Sole Trader(Perseorangan),Telecommunication,1,1500
+Female,26,2014,CS244,Web Developer,Executive,Portal Department,Opensoft Technology Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,24,2017,CS247,IT SUPPORT,Non Executive,IT,CALMS TECHNOLOGY,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,25,2015,CS230,Programmer,Executive,R&D,Easi Ticketing Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Male,26,2016,CS247,exec,Executive,online,iis,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Male,24,2017,CS244,IT Consultant,Junior Consultant,IT,Vision Technology Consulting,I dont know. Sorry,Services,1,3500.5
+Female,26,2016,CS247,Asisstant Tax Agent,Non Executive,Tax planning,Euro-Asia Corporate Services Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,24,2017,CS 251,IT / WEB ADMINISTRATOR,Non Executive,IT,THE ISKANDARIAN,Sole Trader(Perseorangan),Media and Broadcasting,1,1500
+Male,23,2017,CS243,Business Intelligence Developer,Executive,Center for AI & Robotics,Augmented Innovation(Malaysia-Japan International Institute of Technology,Private Limited Company(Syarikat Sendirian Berhad,R&D,1,2500.5
+Female,25,2014,CS110,AVM DEVELOPER,ASSOCIATE EXECUTIVE,JPPH,SAPURA SECURED TECHNOLOGIES,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,24,2014,CS110,IT Assistant,Non Executive,IT,Elite Ventures Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Oil and Gas,3,1500
+Male,25,2013,CS110,System Engineer,Executive,Application Services,Edaran Berhad,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,24,2017,CS249,Pos Logistics Berhad,Executive,Corporate Development,Pos Logistics Berhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,23,2017,CS242,Finance Associate,Executive,Finance,QBE Insurance (M),Berhad,Insurance,1,1500
+Male,23,2017,CS251,Web Designer,Non Executive,Information Technology,Web Impian Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,24,2016,CS247,Lecturer,Non Executive,Mathematics,UiTM KAMPUS JENGKA,Statutory Body(Badan Berkanun),Education,1,2500.5
+Female,29,2011,CS214,Businewomen,Manager,Printing,Bookworm Printing and Stationary,Sole Trader(Perseorangan),Services,3,3500.5
+Male,29,2010,CS229,Private Sector,Manager,Sales & Marketing,S P Setia Group Berhad,Government Linked Company (GLC),Property Development,7,7500.5
+Female,25,2016,CS251,Application Developer,Executive,IT,Intel Corporation,Corporate(Koperasi),Manufacturing,2,3500.5
+Male,28,2014,CS220,system support engineer,Executive,IT HoSHAS,Strateq Health sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,26,2015,CS229,PDRM,INVESTIGATION OFFICER,PDRM,PDRM,PDRM,Customer Services,1,3500.5
+Male,26,2017,CS771,CREDIT CONTROL EXECUTIVE,Executive,ACCOUNT DEPARTMENT,INSTITUT PROFESIONAL BAITULMAL,Private Limited Company(Syarikat Sendirian Berhad,Education,1,2500.5
+Female,25,2016,CS241,Assistant Research Officer,Non Executive,Advanced Informatics School (AIS),Universiti Teknologi Malaysia,government,Education,1,2500.5
+Female,25,2017,CS247,Executive Trainee,Executive,Group Human Capital (HR),UEM Group Berhad,Corporate(Koperasi),Building & construction,1,1500
+Male,23,2015,CS110,Intern,intern,IV&V,Mycrypto,Partnership(Perkongsian),Information Technology,1,1500
+Female,25,2017,CS773,LECTURER PTFT,TEACHING,EDUCATION,UITM KAMPUS ALOR GAJAH,UNIVERSITY,Education,1,2500.5
+Female,23,2017,CS243,Software Engineer,Junior ,IT,SIMPLE ADVANTAGE SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,24,2017,CS249,Admin Officer,Non Executive,Car Sales,Trinity Top Auto,Partnership(Perkongsian),Telecommunication,1,1500
+Male,25,2016,CS251,IT Executive,Executive,IT Department,Cover IT Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,2500.5
+Female,26,2017,CS244,Admin Assistant,Non Executive,Administration,Citylink Express,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,24,2015,CS110,management,Manager,human resource,www.orinsgroup.com,business to consumer,Customer Services,3,2500.5
+Male,27,2016,CS229,Penolong Pegawai Pembangunan Masyarakat,Non Executive,Canseleri,Universiti Malaysia Kelantan,Kerajaan,Education,1,1500
+Female,25,2013,CS111,customs,Non Executive,jabatan kastam diraja malaysia,jabatan kastam diraja malaysia,goverment,.,2,2500.5
+Male,25,2016,CS251,IT Officer,IT Officer,IT,Malaysian Timber Industry Board,Statutory Body(Badan Berkanun),Services,1,2500.5
+Female,24,2016,CS248,Healthcare assistant,Non Executive,KPJ,KPJ Tawakkal,Corporate(Koperasi),Hospitality,1,1500
+Female,28,2017,CS244,Staffnurse Attendant,Non Executive,Medical,HUSM,Statutory Body(Badan Berkanun),Hospitality,1,1500
+Male,25,2016,CS241 ,Assistant Statistician Officer,Non Executive,Section: Services & Financial (Operational),Department of Statistics Malaysia Wilayah Persekutuan (DOSM WP),Kerajaan (Goverment),Statistical Information,2,2500.5
+Male,25,2016,CS230,Network & Security Engineer,Non Executive,TSSD (infrastructure),e-Lock Corporation SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Female,25,2017,CS230,Store In Charge,Manager,Retail,Watson's Personal Care Store Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Retailing,1,2500.5
+Female,25,2016,CS251 ,Officer,Non Executive,Distributor Support,ForLife Reaearch Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Marketing ,1,2500.5
+Female,26,2014,CS230,Author,Non Executive,Authoring,EASTERN BLU SDN.BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,3,2500.5
+Female,27,2013,CS220,Software QA,Executive,Special Project,Century Software Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Accountant and Audit,4,3500.5
+Male,25,2014,CS110,Head of IT,Executive,IT,Prestige Multimedia Sdn Bhd,Partnership(Perkongsian),Information Technology,3,3500.5
+Female,27,2013,CS230,Process improvement executive ,Executive,Business systems and processes ,Kenanga,Private Limited Company(Syarikat Sendirian Berhad,Investment bank,5,4500.5
+Male,26,2015,CS248,JUNIOR EXECUTIVE,Executive,OPERATION,OUTPOST UNIFORM,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Male,26,2016,CS251,Junior Programmer,Non Executive,ICT,Glotech Prima Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,21,2017,CS110,Cashier,Non Executive,Supermarket,Pasaraya karnival jerai,Sole Trader(Perseorangan),Manufacturing,1,1500
+Male,26,2014,CS226,Business Analyst,Executive,Business Analyst,Protech Synergy Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Male,27,2016,CS221,factory workers,Executive,human resourse,flex,manufacturing,Manufacturing,2,2500.5
+Female,24,2016,CS530,Postgraduate Student,Student,Fskm,Uitm,Statutory Body(Badan Berkanun),Education,1,1500
+Male,32,2011,CS110,IT EXECUTIVE,Executive,IT,FFM BERHAD,Partnership(Perkongsian),Manufacturing,6,4500.5
+Female,24,2017,CS230,INFORMATION TECHNOLOGY OFFICER,Executive,IT,PERBADANAN MENTERI BESAR PERAK,Statutory Body(Badan Berkanun),Consumer Trading,1,2500.5
+Male,26,2014,CS220,Worker,Executive,IT,Heitech Padu Berhad,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,22,2015,CS111,Logistic Officer,Clerk,Logistics & Warehousing,My-Sutera Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Female,22,2015,CS111,Logistic Officer,Clerk,Logistics & Warehousing,My-Sutera Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Female,26,2017,CS773,Invoice processor,Executive,Invoicing,Sapura Energy Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,oil and gas construction,1,3500.5
+Female,28,2013,CS225,Takaful Consultant,Agent,PBTB,PAMB,Private,Customer Services,4,2500.5
+Female,26,2015,CS773,PAYROLL ASSOCIATE,Executive,PAYROLL,TRICOR BUSINESS SERVICES SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Male,23,2017,CS110,Executive ,Executive,Production,Golden fresh,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,1500
+Female,26,2015,CS110,Process Analyst ,Executive,Global Delivery Management ,T-Systems Malaysia,Multinational company ,Information Technology,2,3500.5
+Female,26,2015,CS251,Mobile deceloper,Executive,Application Development,PETRONAS ICT,Private Limited Company(Syarikat Sendirian Berhad,Oil & Gas,3,3500.5
+Male,27,2012,CS230,Test Engineer,Executive,Product Assurance & Certification,SWIFT Support Services Malaysia Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,7500.5
+Female,26,2014,CS228,Banker,Executive,HSBC,HSBC,Private Limited Company(Syarikat Sendirian Berhad,Banking,3,3500.5
+Male,26,2015,CS228,Service supervisor,Manager,Pest Control,Rentokil-Initial,Private Limited Company(Syarikat Sendirian Berhad,Pest control,2,3500.5
+Female,27,2012,CS251,Middleware Engineer,Executive,IT,DXC Technology,Corporate(Koperasi),Information Technology,2,3500.5
+Female,27,2014,CS214,Admin,Non Executive,Human Resources,Octolux Technologies Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Female,29,2012,CS230,Shop assistant,Non Executive,None,Iz Usaha Jaya Enterprise,Sole Trader(Perseorangan),Stationery,4,450
+Female,28,2013,CS244,Software Engineer ,Executive,IT,Manulife Insurance Berhad ,Private Limited Company(Syarikat Sendirian Berhad,Services,5,3500.5
+Female,26,2017,CS244,programmer,Executive,IT,KPJ Healthcare,Private Limited Company(Syarikat Sendirian Berhad,Hospitality,1,1500
+Female,29,2012,CS230,Customer service executive,Executive,Banking & Finance,Maybank,Private Limited Company(Syarikat Sendirian Berhad,Accountant and Audit,5,4500.5
+Male,30,2011,CS110,System Analyst,Executive,IT,Bank Islam,Berhad,Financial Services,6,7500.5
+Male,25,2016,CS244,Special officer (N41),Executive,Jurutulis Negeri Johor,Pejabat dewan negeri johor,Corporate(Koperasi),Administration ,2,2500.5
+Female,26,2015,CS229 ,Account assistant,Non Executive,Account,Posim marketing sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Trading company,2,1500
+Female,24,2016,CS228,teacher,teaching,teaching,Little Caliphs,Private Limited Company(Syarikat Sendirian Berhad,Education,3,1500
+Female,26,2016,CS247,SLIM TRAINEE,Non Executive,Technical,TELEKOM MALAYSIA BERHAD,Swasta,Telecommunication,1,1500
+Male,25,2015,CS220,Software Engineer ,Executive,Mobile ,Radiant GlobalTech,Sole Trader(Perseorangan),Information Technology,2,3500.5
+Female,30,2013,CS220,pen. pegawai IT,Non Executive,IT,Universiti Malaysia Kelantan,Statutory Body(Badan Berkanun),Education,1,2500.5
+Male,24,2016,CS223,Information System executive,Executive,System Development & Integration,Sarawak Information System SDN.BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,27,2014,CS230,IT Technician,Non Executive,ICT Unit,Yayasan Sabah,Statutory Body(Badan Berkanun),Education,3,1500
+Female,28,2013,CS226,Biz Intellgence Analyst,Executive,SME Banking,RHB Bank,Corporate(Koperasi),Banking,3,3500.5
+Female,26,2015,CS247,Therapist ,Non Executive,Health ,Jureima Ms,Sole Trader(Perseorangan),Services,1,3500.5
+Female,24,2014,CS110,Asst. Restaurant Manager,Manager,Food and Beverages,Pizza Hut Delivery Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Food & Beverages,2,1500
+Male,23,2016,CS110,Reception cum admin,Non Executive,reception cum admin,Sepilok Bed & Breakfast,Resort,Customer Services,23,960
+Female,25,2017,CS773,Unemployed,,,,,,1,
+Female,27,2016,CS244,Acct & Purchasing Exec,Executive,Account & Purchasing,Recomtec Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,24,2016,CS230,Executive,Executive,Management system,Tdk sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,26,2014,CS251 ,IT Executive,Executive,IT,Pertubuhan Tarekat Muktabar Malaysia,NGO,NGO,3,2500.5
+Male,26,2016,CS230,ASSISTANT INFORMATION TECHNOLOGY OFFICER - F29,Non Executive, CITDS,UNIMAS,Statutory Body(Badan Berkanun),Education,5,2500.5
+Male,24,2014,CS230,Technician,Non Executive,IT,Wan Salleh Enterprise,Partnership(Perkongsian),Telecommunication,1,1500
+Male,25,2014,CS110,Software engineer ,Executive,IT,POWERCOMP ,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Female,25,2014,CS228,Corporate Customer Service Exec.,Executive,Corporate Sales,MYEG Services Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Female,26,2016,CS241,Technology Consulting Analyst,Executive,Hydrocarbon Commercial Management,Accenture Solutions Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,4500.5
+Male,26,2016,CS230,IT Officer,Executive,IT,Comfort Rubber Gloves Industries Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,26,2014,CS244,System Administrator,Executive,IT,Sime darby,Private Limited Company(Syarikat Sendirian Berhad,Media and Broadcasting,3,3500.5
+Female,24,2017,CS241 ,Procurement,Executive,Finance,Dagang Nexchange Berhad,Corporate(Koperasi),Services,1,2500.5
+Male,24,2016,CS244,Hardware Engineer,Executive,Research and Development,Rungus TP Holding sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,3,7500.5
+Female,24,2017,CS251 ,Quality Control ( Software),Executive,Software Engineer,Aurora Cloud Works Sdn.Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,26,2014,CS110,IT admin,Non Executive,IT department,Agih Tinta Sdn.Bhd,Private Limited Company(Syarikat Sendirian Berhad,ICT Retails ,1,1500
+Male,25,2016,CS230,IT Assistant,Non Executive,IT department,Pasadana Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,1,2500.5
+Male,26,2016,CS243,Programmer,Executive,Consultant,E-outsource Asia,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,24,2016,CS222,Broadband Operation,Executive,unifi marketing operation,Telekom Malaysia Berhad,GLC,Telecommunication,1,3500.5
+Male,26,2015,CS221,research officer,Non Executive,ncd,institut kesihatan umum,kerajaan,Hospitality,2,1500
+Female,24,2016,CS225,Application Engineer,Executive,Transaction Banking,Hitachi Ebworx Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Male,23,2017,CS230,Appication Developer,Executive,IT Department,Fiction Labs Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,24,2017,CS248,Customer service,Executive,Celcom service center,Celcom mobile sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,1500
+Male,26,2017,CS251,IT Support Engineer,Executive,IT,ASK4KEY SDN. BHD.,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Male,26,2017,AT110,Pegawai Penyelidik Q41(PSH),Executive,Research,Pejabat Daerah Kesihatan Kuala Selangor,Government,Hospitality,1,1500
+Male,22,2015,CS110,Health consultant,Supervisor,Sales,Cannergy,Partnership(Perkongsian),Business,1,1500
+Female,29,2012,CS230,PEGAWAI TEKNOLOGI MAKLUMAT,Executive,INFO TECH MANAGEMENT,MINISTRY OF DEFENCE,GOVERNMENT ,Information Technology,5,4500.5
+Female,27,2015,CS229,Purchasing,Officer,Production Control,Towam sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Male,29,2012,CS223,PROGRAMMER,Executive,IT,CHEMI-CON(M) SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,5,3500.5
+Female,23,2017,CS241,Research Executive,Executive,Research Marketing,Cardas Research and Consulting,Private Limited Company(Syarikat Sendirian Berhad,Marketing Research,1,2500.5
+Female,24,2017,CS241,Internship,Internship,Data Analytics,Richworks International Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Female,24,2017,CS240,IT CLERK,Non Executive,ADMINISTRATION,BINTANG SECURITY SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,24,2017,CS245,Engineer ,Junior ,Technical ,Aglotel ,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,1500
+Male,26,2015,CS251 ,IT Support & Technician,Non Executive,IT department,mobiweb sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Male,25,2015,CS251,Web Developer,Non Executive,Web Developer,Get Hyred Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Female,24,2014,CS110,Information Technology Assistant Officer,Non Executive,Information Technology,Langkawi Development Authority,Statutory Body(Badan Berkanun),Services,1,2500.5
+Male,24,2017,CS242,data processor,Executive,DP,TOLUNA,MARKET RESEARCH,RESEARCH,1,3500.5
+Female,27,2012,CS230,Research Executive,Executive,Corporate Strategy & Insight Dept. ,Pembangunan Sumber Manusia Berhad,Statutory Body(Badan Berkanun),Human Resources,3,3500.5
+Male,23,2015,CS110,System Analyst Programmer (JAVA),Executive,CTO,GATES IT Solution Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Male,26,2016,CS244,IT Technician,Non Executive,IT,PTPTN,Statutory Body(Badan Berkanun),Education,1,1500
+Male,24,2016,CS111,salesman,Manager,retailer,Tomaz Shoes Sdn Bhd,Sole Trader(Perseorangan),Fashion,2,2500.5
+Female,26,2014,CS251,IT Executive,Executive,IT,Etiqa Insurance Berhad,Corporate(Koperasi),Insurance,1,3500.5
+Male,25,2016,CS249,Operation Officer,Non Executive,Warehouse,E.H Utara,Private Limited Company(Syarikat Sendirian Berhad,Logistics,1,1500
+Female,26,2014,CS222 ,Analyst ,Executive,Business Development ,Borneo Marts Enterprise Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Retail Services ,3,2500.5
+Female,24,2017,CS240,Junior System Analyst,Non Executive,Testing,Zanko Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,23,2015,CS110,Hotel,Service assistance,Banquet,Lexis suite penang,Sole Trader(Perseorangan),Hospitality,1,1500
+Female,24,2017,CS241,admin clerk,new staff,admin,honli engineering works ,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Female,25,2016,CS240,SOFTWARE ENGINEER,Executive,IT,PLAMERA TECHNOLOGY SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Male,21,2017,CS110,Degree,Student,,,,,1,
+Female,27,2015,CS244,MARKETING EXECUTIVE,Executive,MARKETING,FAIZA MARKETING SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Male,24,2017,CS243,IT Engineer ,Executive,Manage Service ,Sistem RKK Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Female,24,2017,CS248 ,ACCOUNT ASSISTANT,Non Executive,FINANCE,SYARIKAT PERLADANGAN PESERTA KUNDANG,Private Limited Company(Syarikat Sendirian Berhad,PERLADANGAN,1,1500
+Male,21,2017,CS110,Penolong Pegawai Teknologi Maklumat,Executive,Bahagian Teknologi Maklumat,Perbadanan Kemajuan Negeri Selangor (PKNS),Statutory Body(Badan Berkanun),Property,1,2500.5
+Female,27,2013,CS230,IT EXECUTIVE,Executive,INFORMATION TECHNOLOGY AND MULTIMEDIA,YAYASAN WARISAN ANAK SELANGOR,ANAK SYARIKAT NEGERI SELANGOR,Services,4,3500.5
+Female,23,2016,CS241,Student,Full time student,Uitm,Uitm kb,None,Education,1,1500
+Female,26,2015,CS247,Customer Service Assistant,Non Executive,Export Department,NYS Shippping Forwarding,Private Limited Company(Syarikat Sendirian Berhad,Shipping & Transportation,1,1500
+Male,25,2014,CS228,Planning Executive,Executive,Planning Department,GES VENTURE MALAYSIA,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,3,2500.5
+Female,25,2016,CS247,Cadet,Executive,SKPMI,INTAN,Government,Education,1,2500.5
+Female,21,2017,CS111,student,student,,,,,1,
+Male,23,2017,CS230,Videographer,Non Executive,Corporate Communication,Ministry of Agriculture & Agro Based Industry,Government,Services,1,2500.5
+Female,28,2016,CS773,Clerk ,Non Executive,Personel Department,MB Star Sdn. Bhd,Private Limited Company(Syarikat Sendirian Berhad,Hospitality,2,1500
+Female,25,2016,CS251,Software engineer,Executive,Software Development,Syscode,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,25,2017,CS249,Head of Services Section at KWSP Batu Pahat,Executive,Services,KWSP,Statutory Body(Badan Berkanun),Customer Services,1,3500.5
+Female,29,2013,CS247,Customer care officer,Non Executive,Mobile general enquiry,Singtel,Corporate(Koperasi),Customer Services,2,2500.5
+Male,23,2017,CS240,"AR/VR prototype developer, Digital designer, Animator",Executive,ICT Innovation,Tenaga Nasional Berhad,Corporate(Koperasi),Utility,1,3500.5
+Female,24,2017,CS253,Manager,Manager,Customer Service,PBC Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,1,4500.5
+Male,25,2017,CS707,Android App Dev,Executive,ICT,Maxx Media Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Media and Broadcasting,1,1500
+Female,21,2016,CS110,Programmer ,Non Executive,It,Rank Alpha Technology,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,26,2015,CS220,Business Support,Non Executive,Business Support,VISI,Private Limited Company(Syarikat Sendirian Berhad,Project Management and Intergration,3,2500.5
+Female,25,2017,CS248,ADMINISTRATION EXECUTIVE,Executive,ADMINISTRATION,GLOBAL MOVEMENT OF MODERATES,NON PROFIT ORGANIZATION,PROMOTING MODERATION GLOBALLY,1,1500
+Female,22,2015,CS110,Bachelor of Information System (Hons.) Information System Engineering,Me and partner dont have category because we work as freelancer,None,Aspire Server,Freelancer,Website and give teaching to them who want to create the website,1,1500
+Female,26,2016,CS228,ACADEMICIAN,Executive,ACADEMIC,TAJ VISION SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Female,27,2015,CS229,Teacher,Non Executive,Education,Sekolah Sri Johor Bahru,Private,Education,2,1500
+Female,23,2017,CS247,SL1M Trainee - TNB Human Resources,SL1M,Human Resources Strategics and Transformation,TNB,Corporate(Koperasi),Utility,1,1500
+Male,25,2012,CS110,it support,Non Executive,IT,Easy Future Communication,Sole Trader(Perseorangan),Information Technology,3,1500
+Female,32,2010,CS224,Assistant IT Officer F29,Technical,ICT,Ministry Of Foreign Affairs Malaysia,Federal Government,Foreign Affairs,7,3500.5
+Male,32,2009,CS244,Administrative and Diplomatic Officer,Executive,SPECIAL PROJECTS DIVISION,PRIME MINISTER'S DEPARTMENT,GOVERNMENT,ADMINISTRATIVE AND DIPLOMATIC,7,7500.5
+Female,23,2017,CS247,Admin and Account asisstant,Non Executive,Accounting,Enpel Management Services Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Accountant and Audit,1,1500
+Male,28,2013,CS230,IT Executive,Executive,IT,Hospital Ampang,Public,Hospitality,4,3500.5
+Female,25,2015,CS230,web developer,Executive,IT ,Mimos Berhad,Government Link Company,Information Technology,2,3500.5
+Male,24,2017,CS245,System Engineer,Non Executive,Managed Serviced Department,Binasat Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,25,2017,CS249,Sales Operations Officer,Non Executive,Operations ,Naza Italia,Corporate(Koperasi),Automotive ,1,2500.5
+Female,40,2016,CS 770,TECHNICIAN ,Non Executive,IT,JAB.KESIHATAN NEGERI SELANGOR,GOV,HEALTH ,15,3500.5
+Female,24,2017,CS241,Business Support Executive,Executive,Training,Globalknox sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,25,2013,CS110,sales and support coordinator,Non Executive,sales,asiatechbiz sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,1500
+Male,30,2011,CS251,IT Administrator,Executive,ADMIN IT,Keihin Malaysia Manufacturing Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,7,2500.5
+Female,25,2016,CS230,Retail associate sl1m,Non Executive,Sale and service,Celcom mobile sdn bhd,Telecommunication,Telecommunication,2,2500.5
+Male,25,2016,CS251,Associate Developer,Non Executive,IT,Digi Telecommunications,Private Limited Company(Syarikat Sendirian Berhad,Services,1,3500.5
+Male,26,2016,CS245,IT Admin Officer,Non Executive,ITS,Alam Sekitar Malaysia Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Enviromental,2,2500.5
+Male,29,2012,CS110,Analyst Programmer,Executive,Software Developer,MMCSB,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,3500.5
+Male,26,2015,CS246,IT Support Engineer,Executive,IT,Mossad Pte Ltd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,7500.5
+Female,32,2009,CS222,Claim analyst,Executive,US claims department,AIG Shared Services,Private Limited Company(Syarikat Sendirian Berhad,Insurance,7,3500.5
+Male,30,2012,CS244,Customer Service,Executive,e-Channel,Standard Chartered GBS Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,5,3500.5
+Male,22,2017,CS110,Branch Manager ,Manager,Branch operation department ,99 SPEED MART SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,2500.5
+Female,29,2010,CS230,associate II system analyst,Executive,ict,pos malaysia bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,7,3500.5
+Female,25,2017,CS241,COLLECTION EXECUTIVE,Executive,COLLECTION,KONTENA NASIONAL GLOBAL LOGISTICS,Statutory Body(Badan Berkanun),LOGISTIC,1,2500.5
+Female,26,2015,CS241,HR SENIOR OFFICER,Non Executive,HUMAN RESOURCE,MALINDO AIRWAYS SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,TRANSPORTATION,3,2500.5
+Female,27,2012,CS244,Webmaster,Executive,ICT,AirAsia,Private Limited Company(Syarikat Sendirian Berhad,Aviation,5,4500.5
+Female,23,2017,CS253,Graphics Designer,Junior,Creative,Photobook Worldwide,Private Limited Company(Syarikat Sendirian Berhad,e-commerce website,1,2500.5
+Female,23,2016,CS230,BA cum Quality Assurance,Executive,IT,Basic Inception Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,31,2009,CS230,Senior QA Engineer,Executive,IT,DH,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,7,4500.5
+Female,24,2016,CS241,IT Application Services,Executive,IT,Port of Tanjung Pelepas,Private Limited Company(Syarikat Sendirian Berhad,Transportation,2,3500.5
+Male,26,2014,CS251,System Analyst,Executive,IT,Sony EMCS (M) SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,3,3500.5
+Female,30,2010,CS110,Secretary,Non Executive,Chief Operating Officer & Chief Financial Officer,TLP Terminal Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Port Services,7,2500.5
+Female,27,2014,CS230,Programmer,Executive,IT,Metro Specialist Hospital,Private Limited Company(Syarikat Sendirian Berhad,health care institution,3,1500
+Male,23,2017,CS248,Businessman ,Manager,Sales,Blvckoutstore,Partnership(Perkongsian),Services,1,1500
+Female,26,2015,CS110,Process analyst ,Executive,Global delivery management ,T-Systems Malaysia,Multinational company ,Information Technology,2,3500.5
+Female,24,2017,CS249,Business Development Executive,Executive,Business Development,Syarikat Air Negeri Sembilan,GLC,Services,1,1500
+Male,21,2017,CS110,Further study,Student,,,,,1,
+Female,24,2017,CS241,Junior executive,Executive,Mystery shopper,Cardas research ,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,1,2500.5
+Female,24,2017,CS230,part time tutor,Non Executive,EDUCATION,OPEN UNIVERSITY MALAYSIA,Statutory Body(Badan Berkanun),Education,1,1500
+Male,26,2014,CS244,Personal Financial Advisor (PFA),Executive,Sales/Marketing,CIMB Bank Berhad,Publicly traded government-linked company,Banking/Finance,1,2500.5
+Female,23,2015,CS110,IT Executive,Non Executive,IT Security,Diaspora Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,1500
+Male,26,2016,CS230,Outside Plant Site Engineer,Executive,OSP,Symphonet SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,2,2500.5
+Male,23,2017,CS242,Trade Capture Administrator,Administrator,Transaction Management,RBC I&TS,Corporate(Koperasi),Investor & Treasury Services,1,3500.5
+Male,25,2017,CS230,Retail Manager,Executive,Management,7 Eleven,Franchise,Retail,1,1500
+Male,27,2011,CS222,Data scientist,Manager,Decision management,Cimb,Private Limited Company(Syarikat Sendirian Berhad,Financial institution,6,7500.5
+Female,31,2009,CS230,System analyst,Executive,IT,Public bank berhad,Private Limited Company(Syarikat Sendirian Berhad,Banking/financial,9,7500.5
+Female,23,2017,CS248,Personal Assistant ,Secretary ,Secretary ,Layar Dimensi SB,Private Limited Company(Syarikat Sendirian Berhad,Construction ,1,1500
+Male,26,2015,CS222,Global operation officer,Executive,Trade,Standard chartered bank,Private Limited Company(Syarikat Sendirian Berhad,Banking,3,3500.5
+Female,24,2017,CS243,iOS & Backend Developer,Programmer,IT,Mobius Digital Systems,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Female,24,2014,CS113,Penolong Pegawai Tadbir,Executive,HR,Kementerian Pertanian Dan Industri Asas Tani,Government Sector,Services,3,2500.5
+Male,27,2014,CS230,Software Engineer,Executive,R&D,M3 Online Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Male,27,2014,CS230,Software Engineer,Executive,R&D,M3 Online Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Male,26,2015,CS221,Technician,Senior worker,Plating,Ibiden,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,3500.5
+Female,30,2010,CS222,Account executive,Executive,Finance,Sunway Travel Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Travel Agency,9,2500.5
+Female,30,2010,CS222,Account executive,Executive,Finance,Sunway Travel Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Travel Agency,9,2500.5
+Female,30,2010,CS222,Account executive,Executive,Finance,Sunway Travel Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Travel Agency,9,2500.5
+Female,30,2010,CS222,Account executive,Executive,Finance,Sunway Travel Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Travel Agency,9,2500.5
+Female,30,2010,CS222,Account executive,Executive,Finance,Sunway Travel Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Travel Agency,9,2500.5
+Female,30,2010,CS222,Account executive,Executive,Finance,Sunway Travel Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Travel Agency,9,2500.5
+Female,30,2010,CS222,Account executive,Executive,Finance,Sunway Travel Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Travel Agency,9,2500.5
+Female,30,2010,CS222,Account executive,Executive,Finance,Sunway Travel Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Travel Agency,9,2500.5
+Female,26,2014,CS244,DBA,Executive,MIS,ASE Electronics Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,3500.5
+Female,26,2014,CS228,teller,Executive,arrahnu,yapeim,Corporate(Koperasi),Services,3,1500
+Male,25,2015,CS110,Associate Engineer,Non Executive,Information Technology,X-Fab Sarawak Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,31,2011,CS226,IT Engineer,Executive,IT,Honda Malaysia,Private Limited Company(Syarikat Sendirian Berhad,Automobile,5,3500.5
+Male,27,2013,CS237,App / Game Developer,Owner,Development Team,Atherons Solutions,Sole Trader(Perseorangan),Information Technology,4,4500.5
+Female,23,2017,CS246,Programmer,Non Executive,Information System ,OPUS Asset Management,Private Limited Company(Syarikat Sendirian Berhad,Investment,1,2500.5
+Female,26,2015,CS244,IT Executive @ Junior Programmer,Executive,IT Operations,Inter-city MPC M Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Female,22,2016,CS110,STORE CLERK,Non Executive,LOGISTIC AND STORE,BA URUS BINA (M) SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,CONSTRUCTION,1,1500
+Female,24,2014,CS110,DESIGNER,Executive,MOTIVES & DESIGN DEPT,YAYASAN RESTU,NGO,ISLAMIC PRODUCTS,3,1500
+Female,22,2016,CS110,Software Developer,Executive,Research & Development,Silverlake Group of Companies,Partnership(Perkongsian),Information Technology,2,3500.5
+Female,31,2012,CS226,"Senior Software QA, QC and Support",Non Executive,Software Application,CMG Online Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,3500.5
+Male,38,2000,CS110,Academician,Senior Manager,Faculty of Information Science and Technology,Universiti Kebangsaan Malaysia,Goverment,Education,17,7500.5
+Female,27,2014,CS230,SAP Analyst,Executive,IT,Chemical Company of Malaysia Berhad,GLC,Manufacturing,3,3500.5
+Female,25,2016,CS244,Programmer,Programmer,IT,Datum Clearmind Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,29,2012,CS228,Executive Officer,Executive,consumer credit operations,cimb bank berhad,berhad,banking,5,4500.5
+Female,25,2016,CS248,purchasing assistant,Non Executive,Purchasing,Dindings Poultry Processing Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Female,24,2016,CS228,Executive Analyst,Executive,Investment,Kumpulan perangsang selangor berhad,Berhad,Investment,1,2500.5
+Male,25,2015,CS230,Java developer,Executive,Bank transaction,Appvalley,Partnership(Perkongsian),Information Technology,2,4500.5
+Male,23,2017,CS230,IT Consultant,Executive,IT,Axprit,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Male,23,2017,CS230,IT Consultant,Executive,IT,Axprit,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Female,30,2009,CS226,Lecturer,Executive,FACULTY OF INFORMATION SYSTEM AND ENGINEERING,MSU,Private Limited Company(Syarikat Sendirian Berhad,Education,5,3500.5
+Female,22,2016,CS110,Penolong Pegawai Teknologi Maklumat FA29,Executive,Information and Communication Technology,Jabatan Kesihatan Negeri Pulau Pinang,Statutory Body(Badan Berkanun),Health Services,1,1500
+Male,23,2017,CS110,Work,Manager,Branch,99 speedmart,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Male,23,2016,CS110,central monitoring station,clerk,property and logistic,affinbank bhd,Corporate(Koperasi),banking,1,1500
+Female,23,2017,CS251,Junior Developer,Junior,IT,Bayz Parking Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,23,2016,CS110,customer service executive,Executive,foreign worker product,myeg ,Corporate(Koperasi),Services,1,1500
+Male,24,2016,CS220,PENOLONG PEGAWAI TADBIR,KONTRAK,JABATAN TEKNOLOGI MAKLUMAT,PERBADANAN TABUNG PENDIDIKAN TINGGI NASIONAL (PTPTN),Statutory Body(Badan Berkanun),Education,1,2500.5
+Male,33,2010,CS221,Research Officer,Executive,Unit R&D Farmasi,Kementerian Kesihatan Malaysia,Statutory Body(Badan Berkanun),Hospitality,7,1500
+Female,25,2017,CS230,Admin,Non Executive,Administrator,IHES Education Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Education,2,2500.5
+Female,27,2015,CS230,Quality Assurance Executive,Executive,Research and Development,CMG Technologies Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Fast Food Order Taking,2,2500.5
+Female,24,2017,CS246,Software Developer,Non Executive,HEITECH I-SOLUTIONS SDN. BHD.,HEITECH PADU BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Female,25,2017,CS249,insurance specialist,Executive,distribution,BSN,Statutory Body(Badan Berkanun),Services,1,2500.5
+Male,24,2016,CS110,IT engineer,Non Executive,ITS,Solsis,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,25,2017,CS247,Exc Media Social,Executive,Marketing,Ayam Bismi Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,25,2015,CS242,Banking ,Executive,Financial crime compliance,Hsbc,Private Limited Company(Syarikat Sendirian Berhad,Financial institutions ,2,4500.5
+Male,26,2015,CS247,Government ,Non Executive,SUK KELANTAN ,SUK  KELANTAN,Statutory Body(Badan Berkanun),Media and Broadcasting,2,1500
+Female,28,2015,CS771,Senior operation exec,Executive,Consumer insight,Nielsen malaysia,Private Limited Company(Syarikat Sendirian Berhad,Services,3,3500.5
+Female,24,2017,CS773,PhD Student,Continuing study,UMT,UMT,Government,Mathematics,1,
+Male,31,2011,CS226,MES Engineer,Executive,IT/MES,Meiban Technology sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,5,3500.5
+Male,27,2014,CS244,Software Engineer,Non Executive,Mastercard Project,Tech Mahindra ICT Services (Malaysia) Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,25,2016,CS247,Admin and Procurement Assistant,Executive,Purchasing,Smart Provident Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Construction,1,2500.5
+Female,24,2017,CS 240,Developer Apps,Non Executive,It,iLaunch sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Male,23,2017,CS246,IT Professional,Non Executive,Manufacturing IT,Intel Microelectronics,Corporate(Koperasi),Manufacturing,1,3500.5
+Female,23,2017,CS241,Admin and Account,Admin,Admin,Arah Bina Ent,Private Limited Company(Syarikat Sendirian Berhad,Construction,1,1500
+Male,32,2009,CS230,teacher,education,Kementerian Pendidikan Malaysia,"PPD Subis, Miri",governmen,Education,6,3500.5
+Male,26,2016,CS251 ,IT Executive,Executive,Management Information System Dept.,Mutiara Smart Computing Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,2500.5
+Male,28,2013,CS221,Malaysian AIDS Council,Executive,Monitoring & Evaluation,Malaysian AIDS Council,NGO,Healty,5,2500.5
+Female,24,2016,CS231,clerk,Non Executive,admin,Cantuman Usaha (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,22,2016,CS110,staff,staff,food and beverages,baskin robbins,Partnership(Perkongsian),Services,1,1500
+Female,25,2017,CS249,Lecturer,Non Executive,Pengajian Am,Jawatankuasa Pengurusan Kolej Komuniti ,Government,Education,1,1500
+Female,24,2016,CS241,Production supervisor,Executive,Production,Panasonic Automotive system,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Male,30,2010,CS244,System engineer,Executive,IT,PNB,GLC,Investment,9,7500.5
+Female,24,2017,CS251,System Engineer,Executive,TEST System Admin,Carsem(M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,24,2017,CS246,Jr tester,Executive,Technology,Maxis,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,3500.5
+Male,23,2017,CS247,Broadcast Engineer,Executive,Broadcast,Cedar Broadcast & Communication (M) Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Media and Broadcasting,1,2500.5
+Male,27,2013,CS226,Solutions Consultant,Executive,Software,ZEN Computer Solutions Sdn. Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,4500.5
+Female,28,2012,CS229,HR exec,Executive,HR,CSR SB,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,4,3500.5
+Female,30,2010,CS230,Senior Test Engineer,Executive,IT ,Standard Chartered sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Banking sector,6,7500.5
+Male,26,2016,CS230,System Engineer,Oracle Programmer,Loan Development and Support Department,INFOPRO SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Male,26,2015,CS253,Programmer/Admin IT,Executive,IT,Wireless Messaging Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Male,26,2015,CS230,It Project Manager,Executive,It,Arjuna Zenith,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,2,1500
+Female,27,2013,CS244,GOVERNMENT OFFICER,Non Executive,IT,,GOVERNMENT SECTOR,Information Technology,3,2500.5
+Female,26,2013,CS247,Assistant statistical officer,Non Executive,Balance of payment,Jabatan perangkaan,Corporate(Koperasi),Economy,4,2500.5
+Female,26,2013,CS247,Assistant statistical officer,Non Executive,Balance of payment,Jabatan perangkaan,Corporate(Koperasi),Economy,4,2500.5
+Female,26,2013,CS247,Assistant statistical officer,Non Executive,Balance of payment,Jabatan perangkaan,Corporate(Koperasi),Economy,4,2500.5
+Male,25,2015,CS222 ,Internal Auditor,Non Executive,Audit,Marrybrown Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Food & Beverages,2,2500.5
+Male,25,2016,CS248,sales man,Executive,retail sales,Ctos ,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,30,2012,CS229,BUSINESS DEVELOPMENT EXECUTIVE,Executive,BUSINESS DEVELOPMENT DEPT.,TRIUMPHANT GALLERY SDN. BHD.,Private Limited Company(Syarikat Sendirian Berhad,INTERIOR FIT-OUT CONSTRUCTION,5,2500.5
+Female,27,2013,CS230,Web production analyst,Executive,Dell commerce services,Dell global business center swtc,Private Limited Company(Syarikat Sendirian Berhad,Services,3,3500.5
+Male,25,2016,CS253,BUSINESS,Senior Manager,GRAPHIC DESIGN,GRAMIXX DESIGN,Partnership(Perkongsian),GRAPHIC DESIGN,1,2500.5
+Male,30,2013,CS247,Programmer,Executive,IT,LSEG MALAYSIA SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,5,2500.5
+Male,29,2012,CS230,System Engineer,Executive,IT,Infopro sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,4500.5
+Female,28,2011,CS214,Operation Executive,Executive,Peoduction & packing,Top Glove,Public Listed,Manufacturing,5,3500.5
+Female,25,2015,CS243,BUSINESS INTELLIGENCE ANALYST,Executive,ANALYSIS,MYRA TECHNOLOGIES SDN BBHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Female,32,2012,CS777,Pegawai Teknologi Maklumat,Executive,ICT,"Hospital Tuanku Fauziah, Kangar",Governmnent,health services,6,7500.5
+Male,29,2014,CS241,Goverment Officials,Executive,Criminal Unit,Inland Revenue Board,Statutory Body(Badan Berkanun),Taxation,3,4500.5
+Female,24,2017,CS230,PEN.  PEG.  TEKNOLOGI MAKLUMAT ,Non Executive,PUSAT TEKNOLOGI MAKLUMAT,UniSZA,Statutory Body(Badan Berkanun),Education,1,2500.5
+Female,24,2017,CS230,Pen. Peg. Teknologi Maklumat,Non Executive,Pusat Teknologi Maklumat,UniSZA,Statutory Body(Badan Berkanun),Education,1,2500.5
+Female,26,2014,CS244,DBA,Executive,MIS,ASE ELECTRONICS SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,3500.5
+Male,33,2010,CS241,Pembantu Makmal,Non Executive,Science Lab,SMK Taman Tun Dr Ismail,Statutory Body(Badan Berkanun),Education,4,2500.5
+Female,29,2010,CS110,Computer Technician ,Non Executive,Administration,Lembaga Hasil Dalam Negeri Malaysia,Statutory Body(Badan Berkanun),Government,6,2500.5
+Female,26,2012,CS230,Software Engineer,Executive,IT,Secret,Private Limited Company(Syarikat Sendirian Berhad,Media and Broadcasting,3,3500.5
+Female,31,2011,CS228,PEGAWAI PERKHIDMATAN PENDIDIKAN SISWAZAH,Executive,Mathematics,MARA,Statutory Body(Badan Berkanun),Education,1,3500.5
+Male,25,2016,CS251 ,Digital Program Developer,Executive,ICT,SMART DIGITAL NETWORK SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,27,2014,CS241,Logistics Coordinator,Non Executive,Documentation,BDP International,Corporate(Koperasi),Logistics,2,2500.5
+Female,27,2012,CS112,Business admin,Non Executive,Administrative,Toyota Tsusho,Private Limited Company(Syarikat Sendirian Berhad,Investment holding & trading ,5,3500.5
+Male,26,2014,CS251,"Analyst, Fixed Income",Executive,Investment,Etiqa Insurance Berhad,Corporate(Koperasi),Insurance,3,3500.5
+Male,26,2015,CS247,System Engineer,Executive,IT,Infopro Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Male,28,2011,CS230,"Engineer I, Software engineering",Senior Associate,HRS-G0055D,Conduent Business Services Malaysia Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,4500.5
+Female,29,2012,CS230,Lecturer,Executive,Computer Science,UiTM Perak,Statutory Body(Badan Berkanun),Education,1,4500.5
+Female,24,2017,CS248,ACCOUNT OFFICER,Non Executive,Account ,Hy Fresh,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,26,2017,CS242,underwriter,Executive,Nil,CCS Support,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,24,2017,CS245,Network engineer ,Executive,NOC,Aries Telecoms ,Partnership(Perkongsian),Telecommunication,1,1500
+Male,23,2017,CS247,Pegawai Khidmat Pelanggan,Non Executive,communication,Syarikat air negeri sembilan,Statutory Body(Badan Berkanun),Services,1,1500
+Male,23,2017,CS230,Programmer,Executive,Development,SILVERLAKE DIGITAL ECONOMY,Corporate(Koperasi),Information Technology,1,3500.5
+Male,21,2017,CS110,sale assistant,Non Executive,frozen,cmart 5 sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,1,1500
+Male,23,2016,CS230,Bussiness,Non Executive,Xo,Khairil ,Partnership(Perkongsian),Serve food,1,1500
+Male,29,2010,CS233,Pegawai Pendidikan Siswazah,Teacher,Education ,SK RANCHA-RANCHA ,Government ,Education,7,7500.5
+Male,32,2009,CS110,Government,Non Executive,Operational ,Suruhanjaya syarikat malaysia,Statutory Body(Badan Berkanun),Operational,7,3500.5
+Female,22,2015,CS110,None,None,None,None,None,None,1,1500
+Female,23,2017,CS243,Learning Administrator,Executive,L&D,Conduent Business Services,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,23,2017,CS243,Software engineer ,Graduate trainee ,Product development solution ,Intel,Corporate(Koperasi),Manufacturing,1,3500.5
+Male,23,2017,CS253,Graphic Designer,Entry,Graphic,CTW Enterprise Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,1500
+Male,22,2017,CS110,Branch manager,Manager,Branch operation department ,99 SPEED MART SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,2500.5
+Female,23,2017,CS248,Account,Account assistant,Account,Synergy M5 Technology Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Electronic,1,1500
+Female,21,2016,CS143,Assistant Branch Manager ,Manager,Management,99 Speedmart,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,25,2017,CS248,Acc asisst,Non Executive,Admin,HA Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Male,23,2017,CS110,businessman,Manager,management,luxury mokuzai,Sole Trader(Perseorangan),Manufacturing,1,1500
+Female,23,2017,CS247,Clerk,Non Executive,Jabatan perbendaharaan,Majlis perbandaran kemaman,Statutory Body(Badan Berkanun),Services,1,2500.5
+Female,23,2017,CS244,SL1M Trainee,Non Executive,Mobile Banking,Maybank,Corporate(Koperasi),Banking,1,1500
+Female,23,2017,CS241,Data Analyst Trainee,Executive,Group Procurement,Telekom Malaysia,Berhad,Telecommunication,1,2500.5
+Female,30,2009,CS110,Lecturer,Profesional,ACADEMIC AFFAIRS,UNIVERSITI TEKNOLOGI MARA ,Statutory Body(Badan Berkanun),Education,7,4500.5
+Male,28,2013,CS222,Actuarial Executive,Executive,Risk Management and Compliance,Lembaga Zakat Selangor,Statutory Body(Badan Berkanun),Services,4,2500.5
+Female,30,2013,CS771,Lecturer,Executive,Business Department,KPTM Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Education,7,3500.5
+Male,26,2017,CS251,programmer,staff,IT department,Koperasi Attanwiriah Muar Berhad,Corporate(Koperasi),Education,1,1500
+Female,24,2017,CS229,PMO Coordinator ,Executive,Project Services,GEIM,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,2500.5
+Male,26,2015,CS247,Planning Assistant Officer,Non Executive,Production Control,NICHICON(M) SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Male,24,2014,CS110,Clerk,Non Executive,Library,Universiti Teknologi PETRONAS,GLC,Education,4,1500
+Female,26,2016,CS247,Sales Consultant,Executive,Retail banking,RHB Bank Berhad,Private Limited Company(Syarikat Sendirian Berhad,Accountant and Audit,1,7500.5
+Male,25,2015,CS247,Senior Consultant,Executive,Researcher,SPIRE RESEARCH AND CONSULTING SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Market Research,2,3500.5
+Female,23,2017,CS243,Programmer,Executive,Technical Support Team,Ranhill Water Services,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,24,2017,CS242,Credit review analyst,Executive,Credit policy review,Aeon credit service (m) centre,Private Limited Company(Syarikat Sendirian Berhad,Financial institutions ,1,2500.5
+Male,24,2015,CS110,Software Tester / Associate Business Consultant,Executive,IT Developer,Hitachi,Corporate(Koperasi),Information Technology,3,2500.5
+Male,27,2014,CS110,IT Engineer,Executive,IT,Advancedata Network Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Male,25,2016,CS230,System Developer,Executive,IT Department,Malindo Air Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Airline,2,3500.5
+Female,28,2014,CS247,Clerk,Non Executive,Admin,Niew star car care sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Autmotive,2,2500.5
+Female,27,2015,CS221,Trainer,Non Executive,Education,KEMAS,Goverment,Education,1,1500
+Female,23,2017,CS111,supervisor,Non Executive,marketing,de lea inspirations,Sole Trader(Perseorangan),Services,2,1500
+Male,25,2005,CS110,Penyelidik,Non Executive,Nexus Medical and Health Sciences,USM Kubang Kerian,Statutory Body(Badan Berkanun),Information Technology,1,1500
+Female,24,2016,CS230,PHP Programmer,Executive,IT,Smart Reader Worldwide Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Male,29,2010,CS110,Technical assistant,Non Executive,Network operation,Telekom malaysia bhd,Statutory Body(Badan Berkanun),Telecommunication,6,3500.5
+Female,24,2016,CS221,Unemployed,,,,,,1,
+Female,25,2016,CS245,Training ,Training,Data Centre Lan,T-systems ,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,23,2016,CS110,Student,Student,Fskm,Uitm shah alam,Uitm,Education,1,
+Female,24,2016,CS230,Kindergarten teacher,Education,Education,Yayasan islam terenganu,Government,Education,1,1500
+Female,23,2017,CS230,programmer,Executive,IT,GROWTH RTS,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Female,25,2015,CS244,System Analyst,Executive,Research & Development,GE-PAP SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Printing Distribution,3,3500.5
+Female,25,2015,CS244,System Analyst,Executive,Research & Development,GE-PAP SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Printing Distribution,3,3500.5
+Female,24,2016,CS222,Master's Student,Non Executive,Institute of Science and Mathematic,University of Malaya,Government,Education,1,1500
+Male,24,2017,CS248,Finance exec,Executive,Finance,Malaysia airlines berhad,Statutory Body(Badan Berkanun),Services,1,2500.5
+Female,33,2010,CS244,Tutor,Non Executive,Language,Sedamai College,Sole Trader(Perseorangan),Education,5,1500
+Male,22,2016,CS110,IT Officer,Non Executive,IT Department,Delloyd Industries Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,26,2016,CS245,Security Engineer,Executive,Network tower,CTC Global Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Male,31,2010,CS110,Executive,Executive,transport,Nippon Express (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,7,2500.5
+Male,25,2013,CS249,Logistic Warehouse,Executive,Part Control,Konica Minolta,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Female,27,2012,CS221,Project Executive,Executive,Project,Pos Malaysia,Private Berhad,Services,5,2500.5
+Female,27,2016,CS221,ADMINISTRATIVE ASSISTANT,Non Executive,STRATEGIC DEPARTMENT,ELECTION COMMISSION OF MALAYSIA,Statutory Body(Badan Berkanun),Services,1,1500
+Female,24,2017,CS220,Sysyem Analyst,Executive,Distribution,TATA Consultancy Services,Corporate(Koperasi),Information Technology,1,2500.5
+Male,26,2017,CS771,RESEARCH ASSISTANT,Executive,R&D,TRUE ZEAL SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,29,2010,CS220,app services exec,Executive,IT,NILAI UNI.,PRIVATE,Education,4,2500.5
+Male,26,2016,CS240,Junior Programmer,Executive,Information Technology,Ambang Wira Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Facility,2,2500.5
+Female,27,2014,CS223,Data Management Analyst,Non Executive,Customer Care,Kerry Ingredients Asia Pacific,Partnership(Perkongsian),Consumer Trading,3,2500.5
+Male,26,2016,CS230,IT Executive,Executive,IT,J.K. WIRE HARNESS SDN. BHD.,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Male,30,2012,CS227,FINANCIAL ADVISOR,Executive,FINANCIAL,AIA TAKAFUL,Private Limited Company(Syarikat Sendirian Berhad,Services,5,7500.5
+Female,28,2012,CS228,Finance Assistant,Non Executive,Finance,Tech Data Advanced Solutions (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,2500.5
+Female,22,2016,CS111,account,Staff,Accountant,IJM CONSTRUCTION SDN BHD,Corporate(Koperasi),CONSTRUCTION ,2,2500.5
+Female,25,2015,CS230,IT Developer,Junior Programmer,IT Development,ME-Tech Solution,Private Limited Company(Syarikat Sendirian Berhad,Software Development,2,2500.5
+Female,25,2016,CS247,Programmer,Executive,IT,HLA Integrated Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,28,2011,CS230,Lecturer,Government,CS,UiTM,Statutory Body(Badan Berkanun),Education,5,4500.5
+Female,25,2017,CS247,"Accountant, Sales and Marketing (SL1M Programme)",Non Executive,Sales and Marketing,Supersaiya Trading,Private Limited Company(Syarikat Sendirian Berhad,Business sales and marketing,1,1500
+Male,24,2017,CS248,Research Assistant (RA),Research Assistant (RA),SCIENCE,UTM,GOV,Education,1,1500
+Female,27,2013,CS251,Assistant Admin,Non Executive,Admin,Billion Prima Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,4,2500.5
+Female,23,2017,CS248,INTERNSHIP,Executive,ACCOUNTING,FCA & PARTNERSHIPS SDN BHD,Partnership(Perkongsian),Accountant and Audit,1,1500
+Female,27,2011,CS110,Data operation analysis ,Non Executive,Warehouse,Ceva logistics,Private Limited Company(Syarikat Sendirian Berhad,Third party logistics,3,1500
+Female,24,2017,CS249,SL1M Trainee,Executive,Human Resources,PLUS Malaysia Berhad,Statutory Body(Badan Berkanun),Expressway & transportation,1,1500
+Male,26,2014,CS110,Assistant IT Officer,Non Executive,State Economics Planner Unit,State Of Johor,Government,Services,4,1500
+Female,22,2017,CS110,Junior Application Developer,Non Executive,Technical,Swisslin Communication Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,23,2017,CS243,Junior Programmer,Junior,It,ILaunch,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,27,2011,CS251,IT analyst,Executive,IT,AIG,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,6,4500.5
+Female,30,2009,CS226,it,Executive,it,scb gbs,Private Limited Company(Syarikat Sendirian Berhad,finance &it,6,3500.5
+Female,23,2016,CS247,gold appraisser,Non Executive,gold ,arrahnu ,Corporate(Koperasi),Consumer Trading,1,1500
+Female,25,2016,CS248 ,Sales coordinator,Non Executive,Sales,Merryfair Chair System Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Female,23,2017,CS247,admin,Non Executive,admin,GSA Technology & Services Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,23,2017,CS243,Web Administrator,Executive,Information Technology,Radicare (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Male,29,2013,CS227,Analyst Programmer,Executive,System Development,Hesper Technology Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,4,4500.5
+Female,21,2017,CS111,FURTHER STUDY,not working yet,,,,,1,
+Male,33,2016,CS225,Senior Engineer,Executive,Network Engineering,Airstar (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,9,3500.5
+Male,29,2011,CS228,Procurement/Purchasing Buyer,Executive,Finance,Williams Lea Tag,Private Limited Company(Syarikat Sendirian Berhad,Marketing,6,4500.5
+Male,32,2009,CS230,teacher,educator,Kementerian Pendidikan Malaysia,SMK Bekenu,Government,Education,6,2500.5
+Female,24,2017,CS241,Unemployed,N/A,N/A,N/A,N/A,N/A,1,1500
+Female,26,2014,CS230,Master Student,Full Time Student ,CGSS,USM,not related,not related,1,2500.5
+Female,26,2015,CS230,store manager,Executive,operation,7 eleven,Private Limited Company(Syarikat Sendirian Berhad,retail,3,1500
+Male,25,2016,CS230,software engineer,Executive,Software Development Office,Brilliance Information Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Female,28,2013,CS229,LECTURER,Non Executive,ACADEMIC,MiCoST,Statutory Body(Badan Berkanun),Education,3,1500
+Male,26,2014,CS226,Programmer Analyst,Non Executive,Global Business Solution,DXC Technology Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Female,26,2014,CS228,admin,Non Executive,account,jpi,Private Limited Company(Syarikat Sendirian Berhad,consultant,2,1500
+Female,28,2012,CS110,Manager store,Manager,F&B,"Ouka Co,. Ltd",Private Limited Company(Syarikat Sendirian Berhad,Media and Broadcasting,6,4500.5
+Male,25,2017,CS247,Project Executive,Executive,Management,Uniqlic Sdn.Bhd,Private Limited Company(Syarikat Sendirian Berhad,Education,1,2500.5
+Male,30,2012,CS244,customer service,Executive,eChannel,standard chartered GBS sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,6,3500.5
+Male,30,2012,CS244,customer service,Executive,eChannel,standard chartered GBS sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,6,3500.5
+Male,24,2016,CS246,Application Engineer,Executive,Information Technology,Hitachi eBworx Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,3500.5
+Female,24,2017,CS241,clark,clark,financial,Jabatan Kehakiman Syariah Selangor,goverment,Services,1,1500
+Female,23,2017,CS240,System Analyst,Executive,IT,Heitech Padu Berhad,Partnership(Perkongsian),Information Technology,1,2500.5
+Female,26,2015,CS227,teacher,Non Executive,education,ssukt,Private Limited Company(Syarikat Sendirian Berhad,Education,3,1500
+Male,24,2016,CS243,System Engineer,Development and Support,Development ,Infopro Sdn. Bhd.,Sdn. Bhd.,Information Technology,1,2500.5
+Male,25,2016,CS230,Assistant Officer IT (FA29),Executive,IT Department,Pusat Perubatan Universiti Malaya,Statutory Body(Badan Berkanun),Hospitality,2,2500.5
+Male,21,2017,CS110,Customer service,Non Executive,Toll operation,Jksb,Statutory Body(Badan Berkanun),Customer Services,1,1500
+Female,31,2009,CS244,Banker,Executive,Risk management,Maybank,Bank,Banking,7,7500.5
+Male,26,2014,CS221,Post Approval Review,Executive,Credit Management,Agrobank,GLC,Services,1,3500.5
+Female,27,2013,CS251,Application Consultant,Non Executive,Implementation,SV SOLUTION CENTRIC SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,25,2012,CS110,Java Developer,Executive,Content,Fourtitude Asia,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,28,2013,CS222,Self employed,Manager,Sales,Dexmy enterprise,Sole Trader(Perseorangan),Services,5,1500
+Female,24,2016,CS242,Banker,Executive,Compliance,Bank of Tokyo Mitsubishi UFJ (M) Berhad,Financial institution,Financial institution,1,3500.5
+Female,25,2017,CS244,Purchasing coordinator ,Non Executive,Finance ,Sentoria ,Private Limited Company(Syarikat Sendirian Berhad,Hospitality,1,1500
+Male,27,2014,CS223,Senior Java Developer,Executive,IT,DSIT Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,7500.5
+Female,25,2013,CS253,graphic design,Executive,multimedia,mamansa sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Male,25,2015,CS245,PROGRAMMER,Non Executive,MIS,AIK JOO CAN FACTORY SDN BHD,Partnership(Perkongsian),Manufacturing,2,1500
+Male,30,2012,CS225,Senior Software Developer,Executive,Software Development,MobilityOne Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,5,7500.5
+Female,28,2013,CS221,Marketing & Business Development ,Executive,Marketing,Malaysian Aviation Training Academy Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Education,4,2500.5
+Male,24,2015,CS110,Technical Support Personal,Non Executive,ICT,TECH INNOVASI SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,31,2011,CS244,Data Analyst,Non Executive,UK ,IHS MARKIT SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Handling Services,6,3500.5
+Female,25,2016,CS246 ,Software Engineer,back office engineer,Malaysia System Integration Service Dept,Huawei Technologies (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,2,2500.5
+Female,25,2016,CS251,MIS EXECUTIVE,Executive,MIS,KARA HOLDINGS SDN BHD,Corporate(Koperasi),F&B,2,2500.5
+Male,28,2012,CS241,Fraud Analyst,Executive,Fraud Risk Management,Citigroup Transaction Services Malaysia,Private Limited Company(Syarikat Sendirian Berhad,Banking,5,4500.5
+Female,30,2010,CS241,PROCUREMENT,DEPUTY MANAGER,PROCUREMENT,MALAYSIA RAIL LINK SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,9,7500.5
+Male,24,2014,CS110,Air Defence System (Royal Malaysian Air Force),Non Executive,Air Defence System,Royal Malaysian Air Force,Government,Military,3,2500.5
+Female,25,2013,CS110,Sales Associate ,Non Executive,Sales,IKEA Tebrau,Private Limited Company(Syarikat Sendirian Berhad,Retailer ,4,1500
+Female,24,2017,CS251,SL1M TRAINEE,Executive,NETWORK ROLL OUT,CELCOM NETWORK,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,1500
+Male,28,2011,CS230,SAP Consultant,Executive,SAP IT Technology,Teragiga Solution Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,6,7500.5
+Female,27,2013,CS226,Admin,Executive,Pejabat Exco YB Puan Dr Daroyah Alwi,Kerajaan Negeri Selangor,Corporate(Koperasi),Services,4,2500.5
+Male,36,2008,CS244,Senior IT Officer,Executive,IT Department,Ministry of Education,Federal Government,Education,9,7500.5
+Female,29,2014,CS772,Inventory associates,Non Executive,Inventory,Mydin mohamad holdings berhad,Private Limited Company(Syarikat Sendirian Berhad,Retails and wholesaler,2,1500
+Male,22,2016,CS110,penguasa kastam,government,perkastaman,Jabatan Kastam DiRaja Malaysia,Statutory Body(Badan Berkanun),Services,1,2500.5
+Female,30,2011,CS244,Acc assistant,Non Executive,Finance,Msme new media sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Media and Broadcasting,5,2500.5
+Male,26,2015,CS225,Telco Tower Tester,Non Executive,Telecomunication,South Pacific Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,2,2500.5
+Male,27,2012,CS223,Game Developer,Game Development,IT,Ingeniworks Sdn Bhd,Corporate(Koperasi),Information Technology,5,2500.5
+Female,24,2017,CS772,Banker ,Executive,Risk Management ,CIMB,Corporate(Koperasi),Banking,1,2500.5
+Male,25,2012,CS110,Site supervisor,Executive,Operation,Rolid Setia Sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Construction,2,1500
+Male,23,2017,CS242,IT EXECUTIVE,Executive,ADMIN,JOPAMI SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,1500
+Male,21,2017,CS110,Penolong Pegawai Teknologi Maklumat,Penolong Pegawai,BAHAGIAN PENGURUSAN TEKNOLOGI MAKLUMAT,JABATAN AKAUNTAN NEGARA MALAYSIA,GOVERNMENT,Information Technology,1,1500
+Female,23,2017,CS249,Admin,Non Executive,human resourse,Perodua,Swasta,Car,1,1500
+Female,32,2010,CS110,Penolong Pegawai Teknologi Maklumat,Non Executive,Bahagian Teknologi Maklumat,RISDA Ibu Pejabat,Statutory Body(Badan Berkanun),Services,7,3500.5
+Female,23,2016,CS110,Clerk,Non Executive,Human Resource,Majlis Perbandaran Subang Jaya,Pihak berkuasa tempatan,Services,2,1500
+Male,25,2016,CS242,Junior Research Analyst,Executive,Core,CEICdata,MNC,Information Technology,1,2500.5
+Female,27,2014,CS773,Data Collection & Processing Officer,Executive,Document Technical Management,PDC Premier Holdings,holding,Developer,2,2500.5
+Male,27,2013,CS223,Analyst Programmer,Executive,Research and Development,TimeTec Computing Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,4,4500.5
+Male,25,2016,CS249,Accounts Executive ,Executive,Finance,Boustead Properties Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Property ,1,2500.5
+Male,23,2017,CS110,Housekeeper,Staff,Housekeeping,Impiana hotel ipoh,Private Limited Company(Syarikat Sendirian Berhad,Hospitality,1,1500
+Male,23,2017,CS110,Housekeeper,Staff,Housekeeping,Impiana hotel ipoh,Private Limited Company(Syarikat Sendirian Berhad,Hospitality,1,1500
+Male,26,2013,CS110,Bata Saberkas Shop Manager,Manager,Bata Saberkas,Bata Primavera Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,4,1500
+Female,24,2016,CS247,Quality Assurance Analyst,Executive,Data Center and System Division,Finexus Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Male,24,2017,CS251,Technical Support,Non Executive,Network / Web Programming,Cornet Research Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Stock Broker / Information Technology,1,1500
+Female,23,2017,CS249,Project Account Executive,Executive,Finance,IK Resources,Private Limited Company(Syarikat Sendirian Berhad,Contractor,1,2500.5
+Male,25,2016,CS249,clerk,Non Executive,data management,DHL Asia Pacific Shared Services Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Courier  Services,1,2500.5
+Male,28,2010,CS110,administration assistant ,Non Executive,contract,FELDA,Statutory Body(Badan Berkanun),Services,6,2500.5
+Male,30,2011,CS110,Database Administrator,Executive,ICT,GEMS International School,Not Sure,Education,6,7500.5
+Male,24,2017,CS241,Qaqc,Non Executive,Qaqc,Interfleet,Private Limited Company(Syarikat Sendirian Berhad,Trainwork,1,2500.5
+Male,24,2017,CS241,Qaqc,Non Executive,Qaqc,Interfleet,Private Limited Company(Syarikat Sendirian Berhad,Trainwork,1,2500.5
+Male,25,2016,CS242,Executive ,Executive,Operation,Maybank,Statutory Body(Badan Berkanun),Services,1,3500.5
+Female,27,2013,CS226,System analyst,Executive,It,Mindwave consultancy sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,4,3500.5
+Male,26,2014,CS222,Sales executive,Executive,Sales,Lowyat MSC,MSC,Media and Broadcasting,3,2500.5
+Female,26,2012,CS110,Assistant Manager at Pusat Internet 1Malaysia,Manager,IT and Customer Service,Nera Infocom (M) sdn. bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,1500
+Female,23,2017,CS247,Admin Executive,Executive,Administration,LookupPrinting Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,26,2016,CS230,programmer,Non Executive,IT,HLA Integrated Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Male,21,2016,CS143,STUDENT,Manager,HUMAN RESOURCES,PRINTING & DESIGN,Partnership(Perkongsian),Customer Services,7,2500.5
+Female,23,2015,CS110,Accountant,Manager,Financial & Accounting,Trulooks Beauty Cosmetic,Partnership(Perkongsian),Health & Beauty,2,1500
+Female,24,2017,CS247,software support,IT support,IT,Dot to Dot Digital Image,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Female,28,2011,CS220,Senior consultant ,Executive,Consulting,ABeam consulting,Private Limited Company(Syarikat Sendirian Berhad,Services,6,7500.5
+Male,30,2011,CS222,Head of Compliance,Senior Manager,Compliance,Alaf Jutawan Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Money Service Business,6,7500.5
+Female,28,2011,CS214,Homemaker (I used to be Executive Penaksiran before i will fill up regarding this position),Executive,Collection department,Lembaga Hasil Dalam Negeri Malaysia,Statutory Body(Badan Berkanun),Accountant and Audit,3,4500.5
+Female,24,2017,CS214,temporary teacher,teacher,school,Smk Dato undang syed al-jufri,goverment,Education,2,1500
+Female,24,2017,CS241,Admin Clerk,Non Executive,OPERATION,JARINGAN ILHAM,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,1500
+Female,26,2014,CS251,Junior Survey Programmer,Executive,SP Department,Toluna MY,Not sure,Market Research,3,2500.5
+Male,28,2011,CS230,IT Consultant,Executive,Project,Wedo Technologies,MNC,Information Technology,6,7500.5
+Male,24,2017,CS249,Pembantu Tadbir,Non Executive,Audit Dalaman,LPM,Statutory Body(Badan Berkanun),Services,1,1500
+Male,32,2007,CS244,IT Engineer,Executive,IT,ExxonMobil,Private Limited Company(Syarikat Sendirian Berhad,Oil & Gas,7,7500.5
+Male,28,2013,CS222,Analyst Market Risk,Executive,Group Risk Management,Affin Bank Berhad,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,5,4500.5
+Male,21,2016,CS110,Java Developer,Non Executive,IT,Avicenna Sdn Bhd,Partnership(Perkongsian),Information Technology,1,2500.5
+Male,25,2016,CS251,Programmer,Executive,IT,Cornet Research Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,2500.5
+Female,26,2014,CS247,Islamic Financial Consultant,Manager,Financial,AIA PUBLIC TAKAFUL ,Private Limited Company(Syarikat Sendirian Berhad,Services,3,3500.5
+Female,29,2010,CS225,system engineer,Executive,IT,ZETA,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,7500.5
+Male,22,2015,CS110,It technician,Non Executive,It,Zikay group sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Real estate,2,1500
+Female,24,2017,CS243,Product development engineer,Executive,MVE,Intel,Corporate(Koperasi),Information Technology,1,3500.5
+Female,25,2013,CS245,Junior Programmer,Technical,IT Department,Ag-I Solutions (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,28,2016,CS246,Product engineer,Junior,It,Binary nexus sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,2,2500.5
+Female,28,2017,CS244,Staffnurse Assistant,Non Executive,Medical,Hospital Universiti Sains Malaysia,Statutory Body(Badan Berkanun),Hospitality,1,1500
+Male,23,2017,CS110,Technical support,Technical,It,Pocketdata ,Partnership(Perkongsian),Information Technology,2,1500
+Male,25,2016,CS251,Data cleansing,Non Executive,Data cleansing,Protech sysnergy,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,23,2017,CS246,Application engineer ,Executive,IT,Hitachi Ebworx,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Female,26,2016,CS253,PRODUCTION COORDINATOR,Non Executive,PLANNING,INSPIDEA SDN BHD,Partnership(Perkongsian),ANIMATION,1,1500
+Female,26,2016,CS702,Pembantu Perangkaan,Non Executive,Services and FInance,"Department of Statistics Malaysia, Negeri Selangor",Government,Survey,1,1500
+Male,25,2017,CS707,Unemployed,,,,,,1,
+Male,28,2010,CS230,IT Exec,Executive,Finance,SMEBank ,Corporate(Koperasi),Banking,6,4500.5
+Female,21,2017,CS110,students,students,,,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,
+Male,23,2017,CS246,Software engineer,Non Executive,Poduct Team,Dinarpal,Corporate(Koperasi),Services,1,3500.5
+Male,23,2017,CS246,Software engineer,Non Executive,Poduct Team,Dinarpal,Corporate(Koperasi),Services,1,3500.5
+Male,23,2017,CS251,Software Developer,Executive,None,Mandrill Tech Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,24,2017,CS245,Junior VoIP Engineer,Executive,VoIP,Stampede Solution Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,29,2010,CS244,PEMBANTU TADBIR,Non Executive,CENTRE FOR TEACHING PRACTICE & INDUSTRIAL TRAINING,UNIVERSITI PENDIDIKAN SULTAN IDRIS,Statutory Body(Badan Berkanun),Education,6,2500.5
+Female,25,2016,CS230,Assistant Executive IT,Executive,ICT,Perbadanan kemajuan negeri selangor,Statutory Body(Badan Berkanun),property,1,2500.5
+Female,29,2015,CS110,pembantu tadbir n19,Non Executive,human resources,kementerian kesihatan malaysia,goverment,Hospitality,1,2500.5
+Male,25,2017,CS251,System engineer,Executive,IT,Mmsc systems sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,24,2017,CS241,CLERK,Executive,ADMIN,MF TECHNOLOGY SUPPLY AND SERVICES,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,22,2017,CS112,Manufacturing Planner,Executive,Planning Department ,VENTURE INTERNATIONAL,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,24,2016,CS244,ecr support,Executive,ecr department,irc sdn bhd (m),Private Limited Company(Syarikat Sendirian Berhad,distributer / after sales service,1,2500.5
+Female,23,2017,CS110,Engineer,Non Executive,Engineering,Mattel Malaysia Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,21,2017,CS110,Administrative Assistant,Non Executive,Human Resources,Syarikat Air Negeri Sembilan Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Watering,1,1500
+Female,24,2016,CS241,Quality Control Executive,Executive,Quality Control,P\S\L MALAYSIA,Private Limited Company(Syarikat Sendirian Berhad,Consulting,1,2500.5
+Female,27,2013,CS228,Mnagement,Executive,AKADEMIK,IPB,swasta/kerajaan,Education,3,2500.5
+Female,23,2015,CS111,QA Assistant ,Non Executive,QA,GP Batteries (Malaysia) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,1500
+Male,24,2017,CS244,IT Executive,Executive,IT ,Maybank ,GLC,Banking,2,2500.5
+Male,25,2017,CS250,IT Officer F41,Executive,Centre for Graduate Studies ,USIM,Statutory Body(Badan Berkanun),Education,1,2500.5
+Female,24,2017,CS247,It Officer,Executive,Digital Goverment,MAMPU,Kerajaan,Information Technology,1,1500
+Female,23,2017,CS243,Web Developer,Non Executive,Operation,SKALI,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,24,2017,CS248,Financial Executive,Executive,Sales and Marketing,Public Bank Berhad,Corporate(Koperasi),Banking,1,2500.5
+Female,25,2015,CS243,SOFTWARE DEVELOPER,Executive,TECHNICIAN,NERVESIS SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,28,2014,CS229,Investigator,Executive,Executive Counsel - Investigation,Malaysia Airlines Berhad,Private Limited Company(Syarikat Sendirian Berhad,Hospitality,1,2500.5
+Male,25,2016,CS230,it executive,Executive,it,naza auto sdn bhd,Corporate(Koperasi),automotive,1,2500.5
+Female,22,2016,CS110,Working,Documentation and Tester,ICT,Bespoke Technology Sdn. Bhd,Partnership(Perkongsian),Information Technology,1,1500
+Male,23,2013,CS110,Junior software engineer,junior,icba10,Infopro Sdn Bhd,Corporate(Koperasi),Information Technology,1,2500.5
+Male,24,2015,CS110,Pen. Peg. IT (F29),Non Executive,Administration,PLANMalaysia@Kelantan,Goverment,Town Planning,2,2500.5
+Male,24,2017,CS243,System Engineer ,Executive,Bisness Intelligence,Infopro sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,FinTech,1,2500.5
+Female,25,2016,CS 253,3D Designer,Regular Employee,Design Department,IKLANIKA SDN BHD,Sole Trader(Perseorangan),Advertising,1,1500
+Female,23,2017,CS251 ,Robotic Coach,Normal Staff,Educational,Roboticist (M) SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Male,25,2016,CS248,MARKETING EXECUTIVE,Executive,MARKETING,PENAWAR INDUSTRIES SDN. BHD.,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Female,23,2017,CS248,Account Officer ,Non Executive,Finance ,Chin Hin Group Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,24,2017,CS244,Software Developer,Junior,Information Technology,Mantap Sinergi Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,26,2014,CS230,IT System Admin,Executive,ITD,Custommedia Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,2500.5
+Female,24,2017,CS244,Pekerja Sambilan Harian (IT),Non Executive,Bahagian Teknologi Maklumat,Suruhanjaya Integriti Agensi Penguatkuasaan,Statutory Body(Badan Berkanun),Services,1,1500
+Female,28,2014,CS225,Assistant Engineer,Non Executive,Operation,N-wave Technologies (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,3,2500.5
+Female,23,2017,CS233,Credit Recovery Officer,Non Executive,Collection,Pasadana Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,24,2017,CS246,Associate Test Analyst,Executive,IT,Pactera Malaysia Inc .Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,2500.5
+Female,24,2016,CS240,IS Executive,Executive,System Development and Integration,Sarawak Information Systems (SAINS),Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,27,2013,CS221,Working Holiday Maker,Traveller,Shed job,Fiorito Bananas,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,3,4500.5
+Male,23,2017,CS 241,Employee Relations Executive,Executive,Management,WEX EXPRESS SERVICE SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,24,2016,CS228,Accounts & Human Resources Executives,Executive,Finance and Accounting Department,Denai Boutique Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,29,2011,CS110,IT Executive,Executive,System Development and Integration,Sarawak Information Systems Sdn. Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,23,2017,CS244,Software Developer cum Mobile Developer,Executive,HeiTech Managed Services Group - Product & Consultancy ,HeiTech Padu Berhad,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,25,2015,CS240,Assistant Information Technology Officer,Non Executive,ITD,UIA,Education,Information Technology,2,2500.5
+Female,25,2017,CS247,executive account,Executive,FINANCE,ZET CORPERATION,Private Limited Company(Syarikat Sendirian Berhad,Accountant and Audit,1,2500.5
+Female,26,2016,CS247,engineer,associate,IT ops and operation,Digi Telecomunications,Corporate(Koperasi),Telecommunication,1,3500.5
+Male,29,2011,CS230,Automation Engineer,Executive,Shift Automation Engineer,Intel,Corporate(Koperasi),Information Technology,6,7500.5
+Female,29,2015,CS702,Housewife,Executive,Banking,Maybank,Corporate(Koperasi),Services,7,4500.5
+Male,24,2016,CS241,Jobless,Freelance,Home,Home Sdn Bhd,Looking for vacancies,Jobless,1,1500
+Female,26,2014,CS244,Specialist Enterprise Performance Management,Executive,Information Technology,Sime Darby Global Services Center,Corporate(Koperasi),Services,1,2500.5
+Female,25,2016,CS241,Admin,Non Executive,Human Resources ,ArqhitectNIA,Partnership(Perkongsian),Architecture ,1,1500
+Male,26,2013,CS110,Warehouseman,Supervisor,Warehouse,Petronas,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,4,3500.5
+Female,25,2015,CS247,Executive,Executive,Compliance,Maybank berhad,Private Limited Company(Syarikat Sendirian Berhad,Accountant and Audit,2,3500.5
+Female,25,2013,CS110,Technical assistant playout,Technical,Iptv media operation,Telekom malaysia,Corporate(Koperasi),Media and Broadcasting,2,1500
+Female,25,2015,CS253,VR Developer,Executive,Virtual Reality,P&C,Private Limited Company(Syarikat Sendirian Berhad,Virtual Reality & 360,2,2500.5
+Female,21,2016,CS110,Software Programmer,Non Executive,System Development,Opensoft Technologies Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,23,2017,CS241,Logistics,Executive,Procurement,Kontena Nasional Berhad,Limited,Logistics,7,1500
+Female,26,2015,CS247,Data analysts,Executive,Data analyst,The Nielsen (M) Company Sdn.Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,3,2500.5
+Male,22,2015,CS110,Assistant branch manager,Manager,Retail,99 Speed Mart Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,2500.5
+Male,24,2017,CS251,Y5ZONE SDN BHD,rather not to say,Developer,Y5ZONE,Corporate(Koperasi),Information Technology,1,2500.5
+Male,25,2017,CS230,Programmer,Web developer,Web development,"Reduxion | Kota Kinabalu, Sabah Design and Development",Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Female,24,2017,CS241,Marketing executive,Executive,R&D,Crest synergy global sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,26,2016,CS707,lecturer cs,Non Executive,cs,geomatika university college,Sole Trader(Perseorangan),Education,1,2500.5
+Male,30,2011,CS225,Information Security Engineer,Executive,Cybersecurity - Engineering,DXC Technology (Malaysia),Corporate(Koperasi),Services,6,7500.5
+Female,24,2016,CS249,Consultant ,Non Executive,Recruitment,Kelly Services (M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Male,23,2017,CS253,Web Design Analyst,Executive,DCS,Dell,Corporate(Koperasi),Information Technology,1,1500
+Female,24,2015,CS246,Analyst,Executive,IT,Tnb,Corporate(Koperasi),Services,2,2500.5
+Female,24,2017,CS241,Logisctic coordinator,Non Executive,Documentation,Bpd services centre,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,1,1500
+Female,26,2015,CS241,Account Clerk,Clerk,Account,Tanjong Ixxora Logistics Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Logistics,1,1500
+Male,29,2011,CS226,System Analyst,Senior Executive,ICT Application,Taylor's University Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Education,6,7500.5
+Male,25,2017,CS243,Software Engineer,Executive,R&D,Panasonic System Networks Malaysia Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Male,25,2016,CS246,IT ENGINEER,Executive,IT DEPARTMENT,NCS PTE LTD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,4500.5
+Female,24,2017,CS241,EXECUTIVE BANK,Executive,AUTO COLLECTION & RECOVERY,CIMB BANK GROUP,CORPORATE BANKING,BANKING,1,2500.5
+Female,24,2017,CS241,Field Coordinator,Executive,Operations,Ipsos Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Market Research,1,2500.5
+Male,24,2016,CS240,System Engineer,Entry Level,Core Banking,Infopro Sdn Bhd,Corporate(Koperasi),Information Technology,1,2500.5
+Female,30,2013,CS229,Lecturer,Executive,Engineering studies,ADMAL AVIATION COLLEGE,Private Limited Company(Syarikat Sendirian Berhad,Education,2,2500.5
+Female,23,2017,CS246,Service Support Engineer,Junior,Suport IT,Silverlake,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,23,2015,CS110,Student,Student,Student,Student,University,Hospitality,1,1500
+Female,29,2012,CS230,IT Officer,Executive,IT,Tourism Malaysia,Statutory Body(Badan Berkanun),Tourism,5,3500.5
+Male,27,2013,CS230,IT Officer,Executive,Software Development,EARTH Info,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,4,3500.5
+Female,24,2017,CS243,iOS & Backend Developer,Programmer,IT,Mobius Digital Systems,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Female,23,2017,CS244,Project executive,Executive,IT,SCIENOTECH SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,23,2017,CS249,SLB trainee at EPF,Trainee,Administarion,KWSP KOTA BHARU,Statutory Body(Badan Berkanun),Customer Services,1,1500
+Male,32,2008,CS223,UiTM Lecturer,IPTA,CTN,UiTM,Statutory Body(Badan Berkanun),Education,9,7500.5
+Female,27,2014,CS229,tutor and tuition teacher,Non Executive,Tuition centre,Pusat Tuisyen Ummu Aysha & Pusat Tuisyen Pena,Sole Trader(Perseorangan),Education,4,1500
+Female,24,2017,CS773,Data Specialist ,Executive,Global,Nielsen (Malaysia),Corporate(Koperasi),Consumer Trading,1,2500.5
+Female,24,2017,CS773,Data Specialist ,Executive,Global,Nielsen (Malaysia),Corporate(Koperasi),Consumer Trading,1,2500.5
+Male,21,2016,CS110,Semi skill,Non Executive,Direct hire,Dialog plant and service,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,26,2015,CS227,Auditor,Non Executive,Audit,Trans-Asia Group,Private Limited Company(Syarikat Sendirian Berhad,Accountant and Audit,2,2500.5
+Male,24,2017,CS246,Executive Consultancy & Solution,Executive,Product & Solutions,ACASIA Communications,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,2500.5
+Male,30,2012,CS110,programmer,Executive,php,ingeniworks sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,4,2500.5
+Female,21,2017,CS110,Receptionist,Staff,Reception,Muarar hotel,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,1,1500
+Female,26,2015,CS227,Junior Executive(Accountant),Executive,Account,Murni Dinamik Environment Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,2,1500
+Male,21,2017,CS110,none,Non Executive,,,,Media and Broadcasting,1,
+Male,31,2008,CS226,Digital Service Delivery & Operation,Manager,Customer Service,Tenaga Nasional Berhad,GLC,Power Utility,9,7500.5
+Female,26,2017,CS248,Research officer,Non Executive,Admin,Jabatan Kesihatan Negeri Selangor,Govermant,Hospitality,1,2500.5
+Female,25,2016,CS241,Clinical Research Assistant,Non Executive,Clinical Research department,IJN,Private,Hospitality,1,1500
+Female,25,2016,CS241,Clinical research assistant ,Non Executive,Clinical research department ,Ijn,Private g,Services,2,1500
+Male,26,2017,CS243,Programmer,Executive,Development,Hitachi eBworx,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,3500.5
+Female,24,2017,CS241,Further Study,Student,Faculty of Science Technology and Development,"Uthm, Pagoh Johor",Statutory Body(Badan Berkanun),Education,1,1500
+Male,32,2015,CS230,IT Support,Executive,IT Department,FlyFirefly Sdn Bhd,Statutory Body(Badan Berkanun),Aviation,6,3500.5
+Female,24,2017,CS253,graphic designer,Executive,designer,travel,Private Limited Company(Syarikat Sendirian Berhad,travel,1,1500
+Female,23,2017,CS230,Junior Quality Assurance,Executive,Quality Control,Select-Tv Solutions Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
+Female,23,2017,CS243,IT Support Engineer,Non Executive,Information Technology,Asset Management Resources Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Female,30,2012,CS229,Test Analyst,Executive,Information Technology,Bank Simpanan Nasional,Statutory Body(Badan Berkanun),Banking,5,4500.5
+Male,24,2014,CS110,IT Analyst,Non Executive,IT,Flex System Penang sdn.bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,2500.5
+Male,28,2013,CS244,Special Officer to CEO,Executive,CEO Office,State Economic Development Corporation,Statutory Body(Badan Berkanun),Property Development; Hospitality & Tourism; Port & Logistics,4,3500.5
+Female,26,2016,CS241,Shipping Assistance,Non Executive,Shipping,Topflight Plastics Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,1500
+Female,25,2016,CS253,Software Test Engineer,Executive,TOUCH 'N GO SDN BHD,APP FUXION SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,25,2017,CS244,IT Support,Executive,Group Technology and Operation,CiMB,Bankinh,Accountant and Audit,1,2500.5
+Female,23,2017,CS241,research assistant,Non Executive,research,merdeka,Private Limited Company(Syarikat Sendirian Berhad,research,1,2500.5
+Female,24,2015,CS110,study,Non Executive,fashion and dressmaking,giatmara,giatmara,Services,1,1500
+Male,22,2017,CS110,Programmer,Non Executive,IT,Data Envelopment Analysis SDN BHD ,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Male,29,2016,CS230,DBA,Non Executive,IT,Intel,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,3500.5
+Female,25,2016,CS 242,FUND ACCOUNTANT,Executive,FUND ACCOUNTING,KAF INVESTMENT BANK BHD,Private Limited Company(Syarikat Sendirian Berhad,INVESTMENT,1,2500.5
+Female,24,2017,CS248,ASSISSTANT PAYROLL,Non Executive,FINANCE,PWB SDN.BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,25,2016,CS773,Business Analyst,Operations Support,Google Project,Teledirect Telecommerce Sdn Bhd,Outsourced Company,Services,1,3500.5
+Male,29,2012,CS230,Assistant IT Officer,IT Officer,JUPEM,JUPEM,Government,Mapping,2,2500.5
+Female,30,2009,CS247,Purchasing Officer,Executive,Purchasing,BioSynTech Malaysia Group Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,5,2500.5
+Male,24,2015,CS230,Customer Engineer,Non Executive,IT,Isianpadu,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,1500
+Male,24,2016,CS226,Technical Assistant,Non Executive,IT,NCS,Corporate(Koperasi),Information Technology,1,7500.5
+Female,23,2017,CS241,EXECUTIVE,Executive,PROCUREMENT,TOP GLOVE,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,3500.5
+Male,22,2015,CS143,student,Non Executive,,,,,2,1500
+Female,29,2011,CS247,vadilation team,Executive,contact centre,ambank,Corporate(Koperasi),banking,7,3500.5
+Female,24,2017,CS241,Management trainee,Executive,Children's,MPH book store,Private Limited Company(Syarikat Sendirian Berhad,Retails,1,1500
+Female,24,2017,CS249 ,CONTRACT WORKER,Non Executive,STORE,IOI LODERS CROKLAAN OILS SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,2500.5
+Female,24,2017,CS247,Operation Assistance,Entry level,Logistic,Toshiba Logistic,Partnership(Perkongsian),Services,1,1500
+Female,26,2013,CS233,Designer,Executive,Marketing,Infosys,Partnership(Perkongsian),Information Technology,2,2500.5
+Male,28,2013,CS244,Pet Shop,Manager,,Business,Sole Trader(Perseorangan),Animal,4,2500.5
+Male,31,2012,CS110,Web Developer,Mid Level Programmer,IT,Azexis Ltd,Corporate(Koperasi),Information Technology,6,3500.5
+Female,28,2013,CS230,DBA,Analyst/IT Support,IT,DELL,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,3,3500.5
+Male,31,2013,CS226,SITE MANAGER,Manager,HEALTH,STRATEQ,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,4500.5
+Female,27,2017,CS247,Marketing and sales,Manager,human resources,Yebeng sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,3,2500.5
+Male,25,2015,CS249,Digital Marketer,Executive,Marketing,Asia Sports Venture,Private Limited Company(Syarikat Sendirian Berhad,Media and Broadcasting,3,4500.5
+Male,28,2012,CS220,Takaful Wealth Planner,Non Executive,,Prudential BSN Takaful,Private Limited Company(Syarikat Sendirian Berhad,Services,4,2500.5
+Female,23,2017,CS251,QA TESTER,Non Executive,IT,FAVOR TECH SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,FINANCE SOFTWARE,1,2500.5
+Female,30,2009,CS230,Software Developer,Executive,IT,Phillip Capital,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,7,4500.5
+Male,30,2012,CS229,Production Manager,Manager,Operational,Mardec Berhad,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,4,3500.5
+Male,26,2014,CS230,CASH MANAGMENT,Executive,CASH MANAGEMENT SUPPORT AND SERVICES,SAFEGUARDS G4S,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Female,23,2017,CS251,PEGAWAI TEKNOLOGI MAKLUMAT (KONTRAK),Executive,IT,JABATAN PERDANA MENTERI,GOVERNMENT,Services,1,2500.5
+Female,27,2011,CS111,penolong akauntan,Executive,bwtd,jabatan akauntan negara malaysia,kerajaan,Accountant and Audit,4,1500
+Female,30,2009,CS110,Penolong pegawai penyelidik,Senior Manager,Information technology,Research management center,Statutory Body(Badan Berkanun),Research management,9,3500.5
+Female,23,2017,CS241,Statistician,Executive,MSPD,FOMEMA Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Telecommunication,1,2500.5
+Female,31,2010,CS253,IT Application Engineer,Executive,IT,Weida (M) Bhd,Group Company,Manufacturing,13,4500.5
+Female,29,2010,CS110,Solution developer,Executive,It,Objectiflune,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,5,4500.5
+Male,24,2017,CS248,RA,RA,SCIENCE,UTM,GOV,Education,1,1500
+Male,25,2016,CS245,Analyst Programmer,Executive,Software and Development,Extreme Edge Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Female,24,2017,CS241,Data Processing Specialist,Executive,Operation,Nielsen,Private Limited Company(Syarikat Sendirian Berhad,Market Research ,1,3500.5
+Female,28,2012,CS233,Telekom Malaysia,Executive,Information Technology & Network Technology,Telekom Malaysia Berhad,GLC,Telecommunication,5,3500.5
+Female,23,2017,CS242,Teacher,Education,Management,Al Baghdadi,Branch,Education,1,1500
+Female,26,2014,CS230,Associate Executive,Executive,Project,Sapura Secured Technologies Sdn. Bhd. ,Private Limited Company(Syarikat Sendirian Berhad,Telecommunications and secured technology,3,2500.5
+Female,26,2015,CS227,Personal financial consultant,Executive,Cimb machang,Cimb bank,Financial institutions,Financial institutions,3,2500.5
+Female,24,2015,CS214,Purchaser,Executive,Purchasing & Shipping,Top Glove,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,3500.5
+Female,25,2015,CS230,diet clerk,clerk,jabatan dietetik dan sajian,segi seri sdn.bhd,Private Limited Company(Syarikat Sendirian Berhad,Hospitality,2,1500
+Female,29,2014,CS214,Officer,Non Executive,Enforcement,EPF,Statutory Body(Badan Berkanun),Services,3,2500.5
+Male,27,2014,CS222,AML System Analyst,Executive,Group IT Compliance & AML System,RHB Bank Berhad,Bank,Banking,1,2500.5
+Male,25,2015,CS229,Human Resources Analyst,Non Executive,Shared Services,Reckitt Benckiser,Multinational Corporate,Consumer Goods,2,3500.5
+Female,24,2017,CS249,ACCOUNTANT,JUNIOR,ACCOUNT,EMI Q,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,1500
+Female,25,2015,CS233,Cashier,Non Executive,Cashiering,Milimewa Superstore Sdn. Bhd.,Partnership(Perkongsian),Services,3,1500
+Female,25,2016,CS773,Clerk,Non Executive,Electric,HDK Potential Engineering Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,29,2013,CS113,Planning Executive,Executive,Planning,Latexx Partners Berhad,Partnership(Perkongsian),Manufacturing,4,2500.5
+Female,29,2011,CS113,Pegawai Perunding,Executive,Kerajaan,Malaysian Productivity Corporation,Statutory Body(Badan Berkanun),Consultant,4,3500.5
+Male,34,2012,CS225,Pegawai Pendidikan Pengajian Tinggi,government servant,Education,Politeknik,Government,Education,6,3500.5
+Female,28.75,2017,CS773,Teacher,government servant,Mathematics,Kementerian Pendidikan Malaysia (KPM),Professional,Education,1,3500.5
+Female,26,2016,CS230 ,Java Programmer,Executive,IT,"Nityo ICoE, Nusajaya",Private Limited Company(Syarikat Sendirian Berhad,Outsource IT ,1,2500.5
+Female,24,2017,CS246,Programmer,Non Executive,Research & Development,Rank Alpha Technologies,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,6,1500
+Male,31,2011,CS228,Penolong Pengurus Eksekutif,Manager,Operasi,Lembaga Zakat Negeri Kedah,Statutory Body(Badan Berkanun),zakat,7,4500.5
+Male,26,2013,CS110,PEMBANTU TADBIR (PENAKSIRAN) G21 SAMBILAN,Non Executive,BR1M,LEMBAGA HASIL DALAM NEGERI MALAYSIA,Statutory Body(Badan Berkanun),Accountant and Audit,2,1500
+Female,25,2016,CS248,production planner,Executive,Production,Moi food malaysia,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,2,3500.5
+Female,30,2012,CS214,Sales Management,Manager,Sales & Marketing,L.V Control Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,6,4500.5
+Male,25,2016,CS242,Fixed Income Analyst,Executive,Credit Research,KAF Investment Bank,Berhad,Financial,1,2500.5
+Female,26,2014,CS110,planner production,Non Executive,production,prelude printing (m) sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,3,1500
+Female,27,2014,CS228,Full-time Housewife,None,None,None,None,None,3,7500.5
+Female,27,2015,CS214,Restaurant manager,Manager,F&b,Qsr Stores sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Customer Services,3,1500
+Female,31,2010,CS231,Software Developer,Executive,Software,BIT Group Sdn. Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,7,2500.5
+Female,24,2017,CS230,Merchandising assistant,Non Executive,Merchandising,Kasut you Sdn. Bhd.,Private Limited Company(Syarikat Sendirian Berhad,Consumer Trading,1,1500
+Female,23,2017,CS110,Planner,Non Executive,Manufacturing,Teknion Furniture Systems(M) Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Manufacturing,1,1500
+Male,26,2015,CS242,Executive ,Executive,Compliance,Hsbc,Private Limited Company(Syarikat Sendirian Berhad,Finance,3,3500.5
+Female,23,2017,CS246,Office staff,General admin,It,Ss supersave(sibu)sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Enterpreneur,1,1500
+Female,23,2017,CS246,Office staff,General admin,It,Ss super save (sibu) sdn bhd,Private Limited Company(Syarikat Sendirian Berhad,Business,1,1500
+Female,24,2017,CS241,SL1M-GEES Trainee,Executive,Human Resources,PETRONAS,Private Limited Company(Syarikat Sendirian Berhad,Services,1,1500
+Female,24,2017,CS247,Network Deployment,Executive,Technology,Webe Digital Sdn Bhd,Partnership(Perkongsian),Telecommunication,1,1500
+Female,26,2017,CS249,Account Assistant,Fresh Graduate,Account Department ,Stradford International College,Private Limited Company(Syarikat Sendirian Berhad,Education,1,1500
+Female,27,2015,CS233,CREDIT CONTROL EXECUTIVE,Executive,CREDIT CONTROL ,SKYNET WORLDWIDE (M) SDN BHD,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Female,26,2015,CS240,Information Technology Officer (F41),Executive,IT,IIUM,University,Information Technology,2,3500.5
+Female,24,2017,CS241,Executive IT,Executive,IT,KOBIMBING,Corporate(Koperasi),Customer Services,1,1500
+Male,25,2017,CS230,IT Programmer,Web Developer,Peoplelogy Interactive,Peoplelogy Group Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Professional Training,1,1500
+Female,28,2016,CS249,TEMPORARY STATISTICIAN,Executive,AGRICULTURE AND ENVIRONMENTAL DIVISION,"DEPARTMENT OF STATISTICS MALAYSIA, PUTRAJAYA",GOVERNMENT,Services,3,1500
+Male,30,2011,CS242,ECONOMIST,Executive,ECONOMICS,IHS MARKIT,Private Limited Company(Syarikat Sendirian Berhad,DATA,5,7500.5
+Female,24,2017,CS230,Associate Consultant,Executive,Developers,Apis Consulting,Private Limited Company(Syarikat Sendirian Berhad,Information Technology,1,2500.5
+Male,24,2017,CS110,visual merchandising artist/designer,Non Executive,visual merchandising department,bandar utama city sdn. bhd.,Private Limited Company(Syarikat Sendirian Berhad,Services,2,2500.5
+Female,24,2017,CS242,Underwriting Executive,Executive,Property and Casualty Underwriting,RHB Insurance,Private Limited Company(Syarikat Sendirian Berhad,Insurance Industry,1,2500.5
+Female,29,2014,CS222,Lecturer,Executive,"School of Mathematics, Actuarial and Quantitative Studies",Asia Pacific University of Technology and Innovation,Private Limited Company(Syarikat Sendirian Berhad,Education,4,4500.5
+Male,26,2017,CS253,Designer Cum IT Support,Executive,Sales & Marketing,Gimmart Sdn Bhd,Private Limited Company(Syarikat Sendirian Berhad,Services,1,2500.5
